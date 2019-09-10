@@ -1,4 +1,4 @@
-baseURL = "https://onbelay.cz/"
+#baseURL = "https://onbelay.cz/"
 languageCode = "en-us"
 title = "Onbelay"
 theme = "restaurant"
