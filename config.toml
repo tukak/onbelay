@@ -1,4 +1,4 @@
-#baseURL = "https://onbelay.cz/"
+baseURL = "https://sharp-beaver-542880.netlify.com/"
 languageCode = "en-us"
 title = "Onbelay"
 theme = "restaurant"
