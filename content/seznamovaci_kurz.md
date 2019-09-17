@@ -1,7 +1,7 @@
 ---
 title: "Seznamovací kurz"
 image: images/blog/seznamovaci_kurz.jpg
-type: "post"
+type: "kurzy"
 ---
 
 Tady jsou nějaké informace o seznamovacím kurzu.

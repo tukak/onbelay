@@ -18,14 +18,19 @@ summaryLength = "7"
     weight = 2
 
     [[menu.nav]]
-    name = "Kurzy/Skály"
-    URL = "blog"
+    name = "Kurzy"
+    URL = "kurzy"
     weight = 3
-   
+    
+    [[menu.nav]]
+    name = "Skály"
+    URL = "skaly"
+    weight = 4
+
     [[menu.nav]]
     name = "Kontaktujte nás"
     URL = "contact-us"
-    weight = 4
+    weight = 5
 
 
 
@@ -137,9 +142,9 @@ description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 [params.footer]
 enable = true
 contactInfoTitle = "KONTAKTNÍ <span>INFORMACE</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
-galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
+#blogTitle = "LATEST <span>BLOG POSTS</span>"
+galleryTitle = "<span>FOTKY</span>"
+socialTitle = "SLEDUJTE <span>NÁS</span>"
 
 [[params.footer.contactItem]]
 title="Telefon"
@@ -183,5 +188,13 @@ Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher
 
 #blog 
 [params.blog]
+enable = false
+#title = "Informace o <span>kurzech</span> a <span>skálách</span>"
+
+[params.kurzy]
 enable = true
-title = "Informace o <span>kurzech</span> a <span>skálách</span>"
+title = "Informace o <span>kurzech</span>"
+
+[params.skaly]
+enable = true
+title = "Informace o <span>skalách</span>"

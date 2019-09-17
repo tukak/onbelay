@@ -1,0 +1,347 @@
+/*--
+    blog Start
+--*/
+#skaly {
+    padding-top: 75px;
+    padding-bottom: 100px;
+    background: url("../images/blog/blog-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+  }
+  #skaly:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../images/overlay-pattern.png") #000000;
+    opacity: 0.3;
+  }
+  #skaly .block .heading {
+    color: #fff;
+  }
+  #skaly .block ul {
+    padding-top: 40px;
+  }
+  #skaly .block ul li {
+    overflow: hidden;
+    width: 49.5%;
+    float: left;
+    background: #fff;
+    text-align: center;
+    color: #959595;
+    transform: 1s;
+    margin-bottom:10px;
+  }
+  #skaly .block ul li:nth-child(1n) {
+    margin-right:1%;
+  }
+  #skaly .block ul li:nth-child(2n) {
+    margin-right:0;
+  }
+  #skaly .block ul li:hover img {
+    transform: scale(1.2) rotate(10deg);
+  }
+  #skaly .block ul li h3 {
+    padding: 0px 40px 20px;
+    line-height: 26px;
+    position: relative;
+  }
+  
+  #skaly .block ul li h3  a {
+    color: #323232;
+    font-size:20px;
+  
+  }
+  #skaly .block ul li h3  a:hover {
+    color:#FF5333;
+  }
+   
+  
+  #skaly .block ul li h3:before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 90px;
+    height: 1px;
+    background: #CBC4B5;
+    margin-left: -45px;
+  }
+  #skaly .block ul li p {
+    padding-top: 25px;
+  }
+  #skaly .block ul li .blog-img {
+    float: left;
+    width: 50%;
+    height: 100%;
+    background: red;
+    overflow: hidden;
+  }
+  #skaly .block ul li .blog-img img {
+    -webkit-transition: all 0.8s ease-out;
+    -o-transition: all 0.8s ease-out;
+    transition: all 0.8s ease-out;
+  }
+  #skaly .block ul li .blog-img-2 {
+    width: 50%;
+    float: right;
+    overflow: hidden;
+  }
+  #skaly .block ul li .blog-img-2 img {
+    -webkit-transition: all 0.8s ease-out;
+    -o-transition: all 0.8s ease-out;
+    transition: all 0.8s ease-out;
+    width: 100%;
+  }
+  #skaly .block ul li .content-right {
+    padding: 40px 35px 23px;
+    font-size: 16px;
+    line-height: 26px;
+    float: right;
+    width: 50%;
+    height: 100%;
+    position: relative;
+  }
+  #skaly .block ul li .content-right:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    margin-top: -15px;
+    background: #fff;
+    transform: rotate(45deg);
+    margin-left: -15px;
+  }
+  #skaly .block ul li .content-left {
+    padding: 40px 35px 23px;
+    width: 50%;
+    height: 100%;
+    float: left;
+    position: relative;
+    z-index: 999;
+  }
+  #skaly .block ul li .content-left:after {
+    content: "";
+    position: absolute;
+    right: -15px;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    margin-top: 0px;
+    background: #fff;
+    transform: rotate(45deg);
+  }
+  #skaly .block .btn-more-info {
+    float: right;
+    padding: 28px 102.5px;
+    border-radius: 0px;
+    background: #ff530a;
+    color: #fff;
+    border: 1px solid transparent ;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 16px;
+    -webkit-transition: .3s all;
+    -o-transition: .3s all;
+    transition: .3s all;
+  }
+  #skaly .block .btn-more-info:hover {
+    background: transparent;
+    color: #ff530a;
+    border: 1px solid #ff530a;
+  }
+  
+  .blog-single-page .post-thumb {
+    margin-bottom:10px;
+  }
+  
+  .blog-single-page .post-title {
+    margin-bottom:10px;
+  }
+  .blog-single-page .post-meta {
+    margin-bottom:20px;
+  }
+
+/*--
+    blog Start
+--*/
+#kurzy {
+    padding-top: 75px;
+    padding-bottom: 100px;
+    background: url("../images/blog/blog-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+  }
+  #kurzy:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: url("../images/overlay-pattern.png") #000000;
+    opacity: 0.3;
+  }
+  #kurzy .block .heading {
+    color: #fff;
+  }
+  #kurzy .block ul {
+    padding-top: 40px;
+  }
+  #kurzy .block ul li {
+    overflow: hidden;
+    width: 49.5%;
+    float: left;
+    background: #fff;
+    text-align: center;
+    color: #959595;
+    transform: 1s;
+    margin-bottom:10px;
+  }
+  #kurzy .block ul li:nth-child(1n) {
+    margin-right:1%;
+  }
+  #kurzy .block ul li:nth-child(2n) {
+    margin-right:0;
+  }
+  #kurzy .block ul li:hover img {
+    transform: scale(1.2) rotate(10deg);
+  }
+  #kurzy .block ul li h3 {
+    padding: 0px 40px 20px;
+    line-height: 26px;
+    position: relative;
+  }
+  
+  #kurzy .block ul li h3  a {
+    color: #323232;
+    font-size:20px;
+  
+  }
+  #kurzy .block ul li h3  a:hover {
+    color:#FF5333;
+  }
+   
+  
+  #kurzy .block ul li h3:before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 90px;
+    height: 1px;
+    background: #CBC4B5;
+    margin-left: -45px;
+  }
+  #kurzy .block ul li p {
+    padding-top: 25px;
+  }
+  #kurzy .block ul li .blog-img {
+    float: left;
+    width: 50%;
+    height: 100%;
+    background: red;
+    overflow: hidden;
+  }
+  #kurzy .block ul li .blog-img img {
+    -webkit-transition: all 0.8s ease-out;
+    -o-transition: all 0.8s ease-out;
+    transition: all 0.8s ease-out;
+  }
+  #kurzy .block ul li .blog-img-2 {
+    width: 50%;
+    float: right;
+    overflow: hidden;
+  }
+  #kurzy .block ul li .blog-img-2 img {
+    -webkit-transition: all 0.8s ease-out;
+    -o-transition: all 0.8s ease-out;
+    transition: all 0.8s ease-out;
+    width: 100%;
+  }
+  #kurzy .block ul li .content-right {
+    padding: 40px 35px 23px;
+    font-size: 16px;
+    line-height: 26px;
+    float: right;
+    width: 50%;
+    height: 100%;
+    position: relative;
+  }
+  #kurzy .block ul li .content-right:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    margin-top: -15px;
+    background: #fff;
+    transform: rotate(45deg);
+    margin-left: -15px;
+  }
+  #kurzy .block ul li .content-left {
+    padding: 40px 35px 23px;
+    width: 50%;
+    height: 100%;
+    float: left;
+    position: relative;
+    z-index: 999;
+  }
+  #kurzy .block ul li .content-left:after {
+    content: "";
+    position: absolute;
+    right: -15px;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    margin-top: 0px;
+    background: #fff;
+    transform: rotate(45deg);
+  }
+  #kurzy .block .btn-more-info {
+    float: right;
+    padding: 28px 102.5px;
+    border-radius: 0px;
+    background: #ff530a;
+    color: #fff;
+    border: 1px solid transparent ;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 16px;
+    -webkit-transition: .3s all;
+    -o-transition: .3s all;
+    transition: .3s all;
+  }
+  #kurzy .block .btn-more-info:hover {
+    background: transparent;
+    color: #ff530a;
+    border: 1px solid #ff530a;
+  }
+  
+  .blog-single-page .post-thumb {
+    margin-bottom:10px;
+  }
+  
+  .blog-single-page .post-title {
+    margin-bottom:10px;
+  }
+  .blog-single-page .post-meta {
+    margin-bottom:20px;
+  }
