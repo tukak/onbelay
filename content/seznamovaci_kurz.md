@@ -2,6 +2,7 @@
 title: "Seznamovací kurz"
 image: images/blog/seznamovaci_kurz.jpg
 type: "kurzy"
+poradi: 1
 ---
 
 Tady jsou nějaké informace o seznamovacím kurzu.
