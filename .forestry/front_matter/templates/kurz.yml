@@ -4,13 +4,18 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titulek
+  config:
+    required: true
 - type: file
   name: image
   label: image
 - type: text
   name: type
   label: type
+  hidden: true
+  default: kurzy
 - type: number
   name: poradi
-  label: poradi
+  label: Pořadí
+  description: Pořadí, v jakém se zobrazí na stránce
