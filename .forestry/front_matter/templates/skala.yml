@@ -17,3 +17,5 @@ fields:
   name: poradi
   label: poradi
   description: Pořadí, v jakém se zobrazí na stránce
+pages:
+- content/třetí-zpráva.md
