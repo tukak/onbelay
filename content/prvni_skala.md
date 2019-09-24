@@ -14,16 +14,11 @@ Maximální počet účastníků: 2
 Cena kurzu:
 
    
-1
 |         | 1/2 den | 1 den | 2 dny | 3 dny |
-2
 |---------|---------|-------|-------|-------|
-3
 | 1 osoba | 3000    | 4200  | 8000  | 12000 |
-4
 | 2 osoby | 1750    | 2500  | 4500  | 6500  |
-5
-|         |         |       |       |       | 
+|         |         |       |       |       |
 
 
 * *v ceně kurzu není zahrnuta doprava ani případné ubytování účastníků kurzu; 
