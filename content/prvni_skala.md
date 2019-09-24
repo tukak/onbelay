@@ -1,6 +1,6 @@
 ---
 title: 'Skalní sportovní lezení '
-image: IMG_6601.JPG
+image: https://app.forestry.io/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkhSNkFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cfc179c5bd84ee20dfc2e503188993dc1be72fd5/IMG_4717.JPG
 type: skaly
 poradi: "1"
 
