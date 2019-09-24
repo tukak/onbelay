@@ -13,6 +13,8 @@ poradi: "1"
 
 #### Místo a čas konání kurzu závisí na domluvě (možnost výběru z několika umělých stěn v Brně).
 
+### Maximální počet účastníků kurzu: 4
+
 #### Cena kurzu
 
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby | rodina (2+3) |
