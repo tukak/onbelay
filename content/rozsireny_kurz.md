@@ -15,7 +15,7 @@ poradi: "3"
 * - se převázat a nechat se spustit
 * - provést sebezáchranu po pádu
 * - provést záchranu spolulezce po pádu
-* - využít potenciál materiálu,který máte k dispozici
+* - využít potenciál materiálu, který máte k dispozici
 * - používat různé uzly
 * - a další. 
 
@@ -30,4 +30,4 @@ poradi: "3"
 |---------|
 | 4000    |
 
-* cena nezahrnzúje vstup na stěnu
+* cena nezahrnuje vstup na stěnu
