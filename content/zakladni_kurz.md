@@ -11,9 +11,10 @@ poradi: "2"
 
 ### Cena kurzu
 
-#### | 1 osoba | 2 osoby | 3 osoby | 4 osoby |
+| 1 osoba | 2 osoby | 3 osoby | 4 osoby |
 |---------|---------|---------|---------|
 | 2800    | 1500    | 1300    | 1100    |
 |         |         |         |         |
-|         |         |         |         | 
+|         |         |         |         |
+
 ### * cena nezahrnuje vstup na stěnu
