@@ -38,4 +38,4 @@ poradi: "3"
 | --- |
 | 4000 |
 
-* **cena nezahrnuje vstup na stěnu**
+* *cena nezahrnuje vstup na stěnu**
