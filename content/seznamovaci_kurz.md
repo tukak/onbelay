@@ -11,7 +11,7 @@ poradi: "1"
 
 #### Jedná se o 2 hodiny strávené na umělé stěně v Brně pod vedením proškoleného instruktora s platnou licencí MŠMT. Instruktor Vás seznámí se základním horolezeckým vybavením a jeho správnou manipulací, ukáže Vám, jak se správně navázat na lano, jak bezpečně jistit a také jak správně lézt.
 
-##### Cena kurzu
+#### Cena kurzu
 
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby | rodina (2+3) |
 | --- | --- | --- | --- | --- |
@@ -19,5 +19,4 @@ poradi: "1"
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-* 
 * cena nezahrnuje vstupné na stěnu
