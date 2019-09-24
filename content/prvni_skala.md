@@ -11,6 +11,8 @@ Kurz je možné pojmout jako výukový, tj. seznámíme Vás se zásadami, pravi
 
 Maximální počet účastníků: 2
 
+Podmínkou pro absolvování kurzu skalního lezení je absolvování základního kurzu lezení na umělé stěně, případně prokázání odpovídajících dovedností.
+
 Cena kurzu:
 
    
