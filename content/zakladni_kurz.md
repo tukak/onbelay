@@ -5,31 +5,31 @@ type: kurzy
 poradi: "2"
 
 ---
-V základním kurzu Vás ve 4 lekcích (4 * 2 hodiny) postupně seznámíme se
+**V základním kurzu Vás ve 4 lekcích (4 * 2 hodiny) postupně seznámíme se**
 
-* - základním lezeckým vybavením,
-* - se způsoby bezpečného navázání na lano,
-* - jištěním prvolezce na TR (Top Rope)
-* - a správnou komunikací mezi lezeckými partnery (partner check atd.).
+* **- základním lezeckým vybavením,**
+* **- se způsoby bezpečného navázání na lano,**
+* **- jištěním prvolezce na TR (Top Rope)**
+* **- a správnou komunikací mezi lezeckými partnery (partner check atd.).**
 
-Naučíme Vás
+**Naučíme Vás**
 
-* - úspornému a efektivnímu lezeckému pohybu,
-* - jak bezpečně spustit spolulezce
-* - i zachytit jeho pád.
+* **- úspornému a efektivnímu lezeckému pohybu,**
+* **- jak bezpečně spustit spolulezce**
+* **- i zachytit jeho pád.**
 
-Ukážeme Vám,
+**Ukážeme Vám,**
 
-* - jak lézt na prvním konci lana
-* - a techniky propínání jisticích bodů.
+* **- jak lézt na prvním konci lana**
+* **- a techniky propínání jisticích bodů.**
 
-Po absolvování základního kurzu byste měli být schopni samostatně a hlavně bezpečně "fungovat" v lezeckém terénu umělé stěny.
+**Po absolvování základního kurzu byste měli být schopni samostatně a hlavně bezpečně "fungovat" v lezeckém terénu umělé stěny.**
 
-Místo a čas konání kurzu závisí na domluvě - máme možnost výběru z několika umělých stěn v Brně. Kurz obvykle probíhá jedenkrát 2 hodiny týdně, případně 2*2 hodiny týdně.
+**Místo a čas konání kurzu závisí na domluvě - máme možnost výběru z několika umělých stěn v Brně. Kurz obvykle probíhá jedenkrát 2 hodiny týdně, případně 2*2 hodiny týdně.**
 
-Maximální počet účastníků kurzu: 4
+**Maximální počet účastníků kurzu: 4**
 
-Cena kurzu
+**Cena kurzu**
 
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby |
 | --- | --- | --- | --- |
@@ -37,4 +37,4 @@ Cena kurzu
 |  |  |  |  |
 |  |  |  |  |
 
-\* cena nezahrnuje vstup na stěnu
+*** cena nezahrnuje vstup na stěnu**
