@@ -21,4 +21,4 @@ poradi: "1"
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-* cena nezahrnuje vstupné na stěnu
+#### * cena nezahrnuje vstupné na stěnu
