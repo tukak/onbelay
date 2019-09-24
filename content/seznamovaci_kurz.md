@@ -5,11 +5,15 @@ type: kurzy
 poradi: "1"
 
 ---
-#### Seznamovací kurz je určený všem, které lezení zaujalo a mají chuť si je také zkusit.
+    Seznamovací kurz je určený všem, které lezení zaujalo a mají chuť si je také zkusit.
 
-#### 
+    
+    
 
-#### Jedná se o 2 hodiny strávené na umělé stěně v Brně pod vedením proškoleného instruktora s platnou licencí MŠMT. Instruktor Vás seznámí se základním horolezeckým vybavením a jeho správnou manipulací, ukáže Vám, jak se správně navázat na lano, jak bezpečně jistit a také jak správně lézt.
+    Jedná se o 2 hodiny strávené na umělé stěně v Brně pod vedením proškoleného instruktora s platnou licencí MŠMT. Instruktor Vás seznámí se základním horolezeckým vybavením a jeho správnou manipulací, ukáže Vám, jak se správně navázat na lano, jak bezpečně jistit a také jak správně lézt.
+
+    
+    
 
 #### Cena kurzu
 
