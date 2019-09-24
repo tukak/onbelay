@@ -10,11 +10,12 @@ poradi: "2"
 - se způsoby bezpečného navázání na lano,
 - jištěním prvolezce na TR (Top Rope)
 - a správnou komunikací mezi lezeckými partnery (partner check atd.).
-Naučíme Vás
+
+### Naučíme Vás
 - úspornému a efektivnímu lezeckému pohybu,
 - jak bezpečně spustit spolulezce
 - i zachytit jeho pád.
-Ukážeme Vám,
+### Ukážeme Vám,
 - jak lézt na prvním konci lana
 - a techniky propínání jisticích bodů. 
 
