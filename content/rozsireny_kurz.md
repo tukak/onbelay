@@ -1,6 +1,6 @@
 ---
 title: Rozšířený kurz
-image: https://res2.forestry.io/QNLCgWPIlY8Na5v1WyeENNa7jqjZvA1h-wltkEuwjjc/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUkVaaU1sRkZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tYmYw/YzljZTdjNjY2OGFi/NDQ0ZDk3NzUzYjRk/MmU2NzdhMTZjZDk1/NS8zLmpwZw
+image: https://app.forestry.io/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRjdUNkFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a5418bfe5688314a074d56755e8e9bd41f21060b/IMG_6737.JPG
 type: kurzy
 poradi: "3"
 
