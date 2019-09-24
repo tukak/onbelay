@@ -1,6 +1,6 @@
 ---
 title: 'Skalní sportovní lezení '
-image: https://app.forestry.io/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkhSNkFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cfc179c5bd84ee20dfc2e503188993dc1be72fd5/IMG_4717.JPG
+image: https://app.forestry.io/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnJSNkFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8088b299f1247b56c0fa8ef868599c0d20fb22e6/IMG_6604_ram.JPG
 type: skaly
 poradi: "1"
 
