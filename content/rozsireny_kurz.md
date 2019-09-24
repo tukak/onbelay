@@ -11,20 +11,13 @@ poradi: "3"
 
 #### **Nad rámec základního kurzu se dozvíte, jak:**
 
-* 
-  * **slaňovat**
-* 
-  * **se převázat a nechat se spustit**
-* 
-  * **provést sebezáchranu po pádu**
-* 
-  * **provést záchranu spolulezce po pádu**
-* 
-  * **využít potenciál materiálu, který máte k dispozici**
-* 
-  * **používat různé uzly**
-* 
-  * **a další.**
+* **- slaňovat**
+* **- se převázat a nechat se spustit**
+* **- provést sebezáchranu po pádu**
+* **- provést záchranu spolulezce po pádu**
+* **- využít potenciál materiálu, který máte k dispozici**
+* **- používat různé uzly**
+* **- a další.**
 
 #### **Trvání kurzu: 6 lekcí**
 
@@ -38,4 +31,4 @@ poradi: "3"
 | --- |
 | 4000 |
 
-* *cena nezahrnuje vstup na stěnu
+* ***cena nezahrnuje vstup na stěnu**
