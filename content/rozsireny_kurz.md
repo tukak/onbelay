@@ -19,7 +19,7 @@ poradi: "3"
 * **- používat různé uzly**
 * **- a další.**
 
-#### **Trvání kurzu: 6 lekcí (6x2 hodiny)**
+#### **Trvání kurzu: 8 lekcí (8x2 hodiny)**
 
 #### **Minimální/maximální počet účastníků: 2/6**
 
