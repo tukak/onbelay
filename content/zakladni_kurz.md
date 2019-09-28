@@ -37,4 +37,4 @@ poradi: "2"
 |  |  |  |  |
 |  |  |  |  |
 
-\*** cena nezahrnuje vstup na stěnu**
+\* cena nezahrnuje vstup na stěnu
