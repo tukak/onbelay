@@ -25,4 +25,4 @@ poradi: "1"
 
 #### * cena nezahrnuje vstup na stěnu
 
-![](/images/bady-qb-VmYZe_yqxL0-unsplash.jpg)
+![](/images/jonathan-j-castellon-32AwP3Wisa8-unsplash-1.jpg)
