@@ -12,6 +12,6 @@ Podstatou tradičního lezení je absence fixního jištění v lezecké cestě 
 | 1 osoba | 4700 | 8500 | 13000 |
 | 2 osoby | 2700 | 4800 | 7500 |
 
-* je možné se domluvit na společné dopravě
+* *je možné se domluvit na společné dopravě
 
 ![](/images/_DSC5125 - kopie.jpg)
