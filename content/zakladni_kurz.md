@@ -38,3 +38,5 @@ poradi: "2"
 |  |  |  |  |
 
 \* cena nezahrnuje vstup na stěnu
+
+![](/images/victor-xok-oyPLmauJzzo-unsplash-1.jpg)
