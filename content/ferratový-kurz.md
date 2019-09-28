@@ -6,7 +6,7 @@ type = "kurzy"
 
 +++
 ### Rádi se s Vámi vydáme za objevováním krás ferrat na území ČR.
-
+---------------------
 |         | cena/os |
 | 1 osoba | 2000    |
 | 2 osoby | 1400    |
