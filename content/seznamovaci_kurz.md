@@ -1,6 +1,6 @@
 ---
 title: Seznamovací kurz
-image: https://res2.forestry.io/uloM4ytmYQnBIfoOaNEWPuvud2Hr7GK_UEY6QYAoVE8/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUTBoVk9GRkZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNmI5/ZGRmOTIwMzBiOWVl/NTQ1MmE4ODQ4ODc4/YThhNmFlZTU5MTkw/Zi9iYWR5LXFiLVZt/WVplX3lxeEwwLXVu/c3BsYXNoLmpwZw
+image: https://res2.forestry.io/1Bm7exrDwmCAUYiXxYdjoqi9jXkaEMj1bBqR77pKths/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUkdwVk9GRkZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tMTBk/OWU0OTI0NWYwNzVl/MGNiNDJiNDRhOWE0/MjFhMjZmM2NkZGI5/Yy9yb3lhLWFubi1t/aWxsZXItQVdKZlpq/SEp3cWMtdW5zcGxh/c2guanBn
 type: kurzy
 poradi: "1"
 
