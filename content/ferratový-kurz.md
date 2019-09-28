@@ -7,8 +7,6 @@ type = "kurzy"
 +++
 ### Rádi se s Vámi vydáme za objevováním krás ferrat na území ČR.
 
-![](/images/maja-kochanowska-EiJQdDI_t_Y-unsplash.jpg)
-
 ### Maximální počet osob: 6
 
 |  | cena/os |
@@ -21,5 +19,4 @@ type = "kurzy"
 | 6 osob | 550 |
 
 * *cena je závislá na destinaci, resp. na dopravě a časové náročnosti
-
-![](/images/walther-luecker-rKlE8wIgBGw-unsplash.jpg)
+* ![](/images/maja-kochanowska-EiJQdDI_t_Y-unsplash.jpg)
