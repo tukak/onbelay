@@ -15,3 +15,5 @@ Podstatou tradičního lezení je absence fixního jištění v lezecké cestě 
 * *je možné se domluvit na společné dopravě
 
 ![](/images/_DSC5125 - kopie.jpg)
+
+![](/images/DSCN5549.JPG)
