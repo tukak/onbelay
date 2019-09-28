@@ -7,7 +7,7 @@ poradi: "3"
 ---
 #### **Rozšířený lezecký kurz je určen všem, kteří se o lezení chtějí dozvědět víc, a hlavně se naučit víc praktických věcí souvisejících s lezením nejen na umělé stěně.**
 
-#### 
+####  
 
 #### **Nad rámec základního kurzu se dozvíte, jak:**
 
