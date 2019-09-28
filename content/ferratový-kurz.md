@@ -16,4 +16,4 @@ type = "kurzy"
 | 5 osob | 650 |
 | 6 osob | 550 |
 
-* cena je závislá na destinaci, resp. na dopravě a časové náročnosti
+* *cena je závislá na destinaci, resp. na dopravě a časové náročnosti
