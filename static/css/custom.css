@@ -364,6 +364,6 @@
       margin-top: -35px;
   }
 
-  div.post-single-content p, img{
-    margin: 0 0 10px !important;
+  .blog-single-page img {
+    margin: 0 0 10px;
   }
