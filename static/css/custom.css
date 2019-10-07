@@ -345,3 +345,21 @@
   .blog-single-page .post-meta {
     margin-bottom:20px;
   }
+
+  .blog-single-page table, th, td {
+    border: 1px solid black;  
+    padding: 2px;
+  }
+
+  nav#navigation .block {
+    margin-top: -120px;
+    padding-top: 0px;
+  }
+
+  nav#navigation #top-nav {
+    padding-top: 70px;
+  }
+
+  nav#navigation_single .block{
+      margin-top: -35px;
+  }

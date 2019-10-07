@@ -38,6 +38,8 @@ summaryLength = "7"
 [params]
 logo = "images/logo.png"
 
+[params.custom_css]
+custom = "css/custom.css"
 
 [params.heroArea]
 enable = true
@@ -76,8 +78,13 @@ img = "images/slider/7.jpg"
 [params.about]
 enable = true
 title= "Tady si můžete o <span>Onbelay</span> něco přečíst"
-bgImage = "images/small_image.jpg"
-description= "Ale ješte to sem musíme napsat. Uvidíme, co tady bude. Zatím je tady jenom takovýhle výplňový text, který nic neznamená, ale ukazuje, jak to bude vypadat, když tu bude něco napsaného."
+bgImage = "images/logo_original.png"
+description= """Jsme rádi, že jste navštívili naše stránky. V OnBelay kurzech se soustředíme na výuku horolezectví od základů až k pokročilejším technikám, a to individuálně nebo v menších skupinách. Tím zaručujeme individuální přístup ke každému z Vás s důrazem na bezpečnost a praktičnost současně. Nabízíme mnohaletou zkušenost z výuky v horolezeckém oddíle.
+<br>
+Zároveň budeme rádi, pokud se s námi vydáte do skalních terénů ČR, ať už za sbíráním zkušeností nebo nevšedních zážitků. Rádi Vám představíme nové skalní oblasti i jejich horolezecká specifika.
+<p> 
+Mgr. Ladislav Petráš - přes 10 let je členem horolezeckého oddílu Lokomotiva Brno, kde také jako instruktor ČHS několik let vedl oddílovou horoškolu. V současné době je ve výcviku horských vůdců ČAHV/CMGA a je držitelem licence MŠMT instruktor skalního lezení a lezení na umělé stěně. Horolezectví se věnuje přes 15 let a zkušenosti sbírá na skalách a v horách nejen v Evropě. 
+"""
 
 
 
@@ -149,17 +156,22 @@ socialTitle = "SLEDUJTE <span>NÁS</span>"
 [[params.footer.contactItem]]
 title="Telefon"
 icon = "fa fa-phone"
-content = "016742 323313"
+content = "+420 728 342 832"
 
 [[params.footer.contactItem]]
 title="Adresa"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+content = """Mgr. Ladislav Petráš<br>
+Poskytování tělovýchovných a sportovních služeb v oblasti skalního lezení<br>
+registrován na: Městský úřad Velké Meziříčí, Radnická 29/1, 594 13 Velké Meziříčí <br>
+IČO: 76296962<br>
+sídlo firmy: Tyršova 22, Velká Bíteš 595 01 <br>
+č.ú.: 670100-2201624134/6210 (mBank)"""
 
 [[params.footer.contactItem]]
 title="Email"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+content = "info@onbelay.cz"
 
 [[params.footer.socialLink]]
 icon = "facebook"
