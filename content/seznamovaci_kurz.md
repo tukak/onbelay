@@ -20,8 +20,6 @@ poradi: "1"
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby | rodina (2+3) |
 | --- | --- | --- | --- | --- |
 | 800 | 500 | 400 | 350 | 1500 |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
 #### * cena nezahrnuje vstup na stěnu
 
