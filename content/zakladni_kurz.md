@@ -9,7 +9,7 @@ poradi: "2"
 
 * **- základním lezeckým vybavením,**
 * **- se způsoby bezpečného navázání na lano,**
-* **- jištěním prvolezce na TR (Top Rope)**
+* **- jištěním lezce na TR (Top Rope), jištěním prvolezce**
 * **- a správnou komunikací mezi lezeckými partnery (partner check atd.).**
 
 **Naučíme Vás**
