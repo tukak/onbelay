@@ -6,7 +6,7 @@
 	                <div class="block">
 	                    <h1 class=" heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">{{ with .Site.Params.contact.title }} {{ . | safeHTML }} {{ end }}</h1>
 	                    <h3 class="title wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">{{ with .Site.Params.contact.subtitle }} {{ . }} {{ end }}</h3>
-	                    <form netlify method="POST" netlify-honeypot="bot-field" data-netlify="true">
+	                    <form id="contact_form" netlify method="POST" netlify-honeypot="bot-field" data-netlify="true">
 							<p class="hidden">
 							  <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
 							</p>
@@ -20,7 +20,7 @@
 	                            <textarea class="form-control" rows="3" placeholder="Sem napište svou zprávu"></textarea>
 	                        </div>
 	                    </form>
-	                    <a class="btn btn-default wow bounceIn" data-wow-duration="500ms" data-wow-delay="1300ms" href="#" role="button">Poslat zprávu</a>
+	                    <a class="btn btn-default wow bounceIn" data-wow-duration="500ms" data-wow-delay="1300ms" href="#" role="button" onclick="document.getElementById('contact_form').submit();>Poslat zprávu</a>
 	                </div>
 	            </div><!-- .col-md-12 close -->
 	        </div><!-- .row close -->
