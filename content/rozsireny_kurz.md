@@ -1,6 +1,6 @@
 ---
 title: Rozšířený kurz
-image: https://app.forestry.io/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRjdUNkFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a5418bfe5688314a074d56755e8e9bd41f21060b/IMG_6737.JPG
+image: images/IMG_6737.JPG
 type: kurzy
 poradi: "3"
 

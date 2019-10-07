@@ -1,6 +1,6 @@
 ---
 title: Základní kurz
-image: https://app.forestry.io/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmJUNkFFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--58c1383d4a73e39bd9947e94177a9df0dbcf0696/IMG_6870.JPG
+image: images/IMG_6870.JPG
 type: kurzy
 poradi: "2"
 

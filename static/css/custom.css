@@ -360,6 +360,10 @@
     padding-top: 70px;
   }
 
-  nav#navigation_single .block{
+  nav#navigation_single .block {
       margin-top: -35px;
+  }
+
+  div.post-single-content p, img{
+    margin: 0 0 10px !important;
   }
