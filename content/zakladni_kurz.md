@@ -1,5 +1,5 @@
 ---
-title: Základní kurz
+title: Základní lezecký kurz
 image: images/IMG_6870.JPG
 type: kurzy
 poradi: "2"
