@@ -1,5 +1,5 @@
 ---
-title: Seznamovací kurz
+title: Seznamovací lezecký kurz
 image: images/roya-ann-miller-AWJfZjHJwqc-unsplash.jpg
 type: kurzy
 poradi: "1"
