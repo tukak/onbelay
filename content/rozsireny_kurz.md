@@ -1,6 +1,6 @@
 ---
-title: Rozšířený kurz
-image: images/IMG_6737.JPG
+title: Rozšířený lezecký kurz
+image: ''
 type: kurzy
 poradi: "3"
 
