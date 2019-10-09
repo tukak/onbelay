@@ -37,6 +37,7 @@ summaryLength = "7"
 # Global Settings
 [params]
 logo = "images/logo.png"
+description = 'Soustředíme se na výuku horolezectví od základů až k pokročilejším technikám, individuálně nebo v menších skupinách. Najdete nás v Brně.'
 
 [params.custom_css]
 custom = "css/custom.css"
@@ -51,7 +52,7 @@ url =  "images/header.jpg"
 
 [params.gallery]
 enable = true
-title= "Nějaké <span>obrázky</span>"
+title= "<span>Fotografie</span>"
 
 [[params.gallery.item]]
 img = "images/slider/1.jpg"
@@ -77,13 +78,13 @@ img = "images/slider/7.jpg"
 
 [params.about]
 enable = true
-title= "Tady si můžete o <span>Onbelay</span> něco přečíst"
+title= "<span>Onbelay</span>"
 bgImage = "images/logo_original.png"
-description= """Jsme rádi, že jste navštívili naše stránky. V OnBelay kurzech se soustředíme na výuku horolezectví od základů až k pokročilejším technikám, a to individuálně nebo v menších skupinách. Tím zaručujeme individuální přístup ke každému z Vás s důrazem na bezpečnost a praktičnost současně. Nabízíme mnohaletou zkušenost z výuky v horolezeckém oddíle.
+description= """Jsme rádi, že jste navštívili naše stránky. V OnBelay lezeckých kurzech se soustředíme na výuku horolezectví od základů až k pokročilejším technikám, a to individuálně nebo v menších skupinách. Tím zaručujeme individuální přístup ke každému z Vás s důrazem na bezpečnost a praktičnost současně. Nabízíme mnohaletou zkušenost z výuky v horolezeckém oddíle.
 <br>
-Zároveň budeme rádi, pokud se s námi vydáte do skalních terénů ČR, ať už za sbíráním zkušeností nebo nevšedních zážitků. Rádi Vám představíme nové skalní oblasti i jejich horolezecká specifika.
+Zároveň budeme rádi, pokud se s námi vydáte do skalních terénů ČR, ať už za sbíráním zkušeností nebo nevšedních zážitků. Rádi Vám představíme nové skalní oblasti i jejich horolezecká specifika. Najdete nás v Brně.
 <p> 
-Mgr. Ladislav Petráš - přes 10 let je členem horolezeckého oddílu Lokomotiva Brno, kde také jako instruktor ČHS několik let vedl oddílovou horoškolu. V současné době je ve výcviku horských vůdců ČAHV/CMGA a je držitelem licence MŠMT instruktor skalního lezení a lezení na umělé stěně. Horolezectví se věnuje přes 15 let a zkušenosti sbírá na skalách a v horách nejen v Evropě. 
+Mgr. Ladislav Petráš - přes 10 let je členem horolezeckého oddílu Lokomotiva Brno, kde také jako instruktor ČHS několik let vedl oddílovou horoškolu. V současné době je ve výcviku horských vůdců ČAHV/CMGA a je držitelem licence MŠMT instruktor skalního lezení a lezení na umělé stěně. Horolezectví se věnuje přes 15 let a zkušenosti sbírá na skalách a v horách nejen v Evropě.
 """
 
 
