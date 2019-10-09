@@ -1,6 +1,9 @@
 {{ "<!-- Navigation Start  -->" | safeHTML }}
-
-	<nav id="navigation_single">
+  {{ if .IsHome }}
+	<nav id="navigation">
+  {{ else }}
+  <nav id="navigation_single">
+  {{ end }}
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
