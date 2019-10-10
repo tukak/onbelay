@@ -19,5 +19,5 @@ type = "kurzy"
 | 6 osob | 550 |
 
 * *cena je závislá na destinaci, resp. na dopravě a časové náročnosti
-* ![](/images/walther-luecker-rKlE8wIgBGw-unsplash.jpg)
+* ![](/images/klaus-huber-2KpJ7EpccGQ-unsplash.jpg)
 * ![](/images/maja-kochanowska-EiJQdDI_t_Y-unsplash.jpg)
