@@ -56,24 +56,31 @@ title= "<span>Fotografie</span>"
 
 [[params.gallery.item]]
 img = "images/slider/1.jpg"
+img_large = "images/slider/1_big.jpg"
 
 [[params.gallery.item]]
 img = "images/slider/2.jpg"
+img_large = "images/slider/2_big.jpg"
 
 [[params.gallery.item]]
 img = "images/slider/3.jpg"
+img_large = "images/slider/3_big.jpg"
 
 [[params.gallery.item]]
 img = "images/slider/4.jpg"
+img_large = "images/slider/4_big.jpg"
 
 [[params.gallery.item]]
 img = "images/slider/5.jpg"
+img_large = "images/slider/5_big.jpg"
 
 [[params.gallery.item]]
 img = "images/slider/6.jpg"
+img_large = "images/slider/6_big.jpg"
 
 [[params.gallery.item]]
 img = "images/slider/7.jpg"
+img_large = "images/slider/7_big.jpg"
 
 
 [params.about]

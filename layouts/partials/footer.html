@@ -43,7 +43,7 @@
                         <ul class="gallery">
                             {{ range $.Site.Params.gallery.item }}
                             <li>
-                                <img class="img-responsive" src="{{ .img | absURL }}" alt="">
+                                <a href="{{ .img_large | absURL}} " target="_blank"><img class="img-responsive" src="{{ .img | absURL }}" alt=""></a>
                             </li>
                             {{ end }}
 
