@@ -17,8 +17,8 @@ poradi: "1"
 
 |  | 1/2 den | 1 den | 2 dny | 3 dny |
 | --- | --- | --- | --- | --- |
-| 1 osoba | 3000 | 4200 | 8000 | 12000 |
-| 2 osoby | 1750 | 2500 | 4500 | 6500 |
+| 1 osoba | 3000 | 4300 | 8000 | 12000 |
+| 2 osoby | 1600 | 2200 | 4200 | 6300 |
 
 * ***v ceně kurzu není zahrnuta doprava ani případné ubytování účastníků kurzu;**
 * ***je možné se domluvit na společné dopravě**
