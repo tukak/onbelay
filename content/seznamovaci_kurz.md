@@ -3,6 +3,7 @@ title: Seznamovací lezecký kurz
 image: images/roya-ann-miller-AWJfZjHJwqc-unsplash.jpg
 type: kurzy
 poradi: "1"
+draft: true
 
 ---
 #### **Seznamovací kurz je určený všem, které lezení zaujalo a mají chuť si je také zkusit.**
