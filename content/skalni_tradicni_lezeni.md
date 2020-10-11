@@ -11,10 +11,12 @@ poradi: "2"
 
 **Nabízíme Vám jak vedení výstupů, tak i výuku zakládání postupového jištění a jisticích stanovišť a všeho, co s touto horolezeckou disciplínou souvisí.**
 
+**Můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček).**
+
 |  | 1 den | 2 dny | 3 dny |
 | --- | --- | --- | --- |
-| 1 osoba | 4500 | 8500 | 12500 |
-| 2 osoby | 2300 | 4300 | 6300 |
+| 1 osoba | 5200 | 10000 | 14000 |
+| 2 osoby | 2800 | 5200 | 7200 |
 
 * *je možné se domluvit na společné dopravě
 
