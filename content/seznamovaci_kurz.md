@@ -3,7 +3,6 @@ title: Seznamovací lezecký kurz
 image: images/roya-ann-miller-AWJfZjHJwqc-unsplash.jpg
 type: kurzy
 poradi: "1"
-draft: true
 
 ---
 #### **Seznamovací kurz je určený všem, které lezení zaujalo a mají chuť si je také zkusit.**
@@ -17,6 +16,8 @@ draft: true
 #### **Maximální počet účastníků kurzu: 4**
 
 #### **Cena kurzu/os.**
+
+#### **můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček)**
 
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby | rodina (2+3) |
 | --- | --- | --- | --- | --- |
