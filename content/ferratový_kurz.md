@@ -11,13 +11,10 @@ type = "kurzy"
 
 |  | cena/os |
 | --- | --- |
-| 1 osoba | 2000 |
-| 2 osoby | 1400 |
-| 3 osoby | 1000 |
-| 4 osoby | 800 |
-| 5 osob | 650 |
-| 6 osob | 550 |
-
+| 1 osoba | 3500 |
+| 2 osoby | 1800 |
+| 3 osoby | 1400 |
+| 4 osoby | 1200 |
 * *cena je závislá na destinaci, resp. na dopravě a časové náročnosti
 * ![](/images/klaus-huber-2KpJ7EpccGQ-unsplash.jpg)
 * ![](/images/maja-kochanowska-EiJQdDI_t_Y-unsplash.jpg)
