@@ -13,6 +13,7 @@ poradi: "1"
 
 **Podmínkou pro absolvování kurzu skalního lezení je absolvování základního kurzu lezení na umělé stěně, případně prokázání odpovídajících dovedností.**
 
+**Můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček)**
 
 **Cena kurzu:**
 
