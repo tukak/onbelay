@@ -21,7 +21,7 @@ poradi: "3"
 
 #### **Trvání kurzu: 8 lekcí (8x2 hodiny)**
 
-#### **Minimální/maximální počet účastníků: 2/6**
+#### **Maximální počet účastníků: 6**
 
 #### **Místo a čas konání kurzu závisí na domluvě, obvyklá frekvence kurzu je 1 lekce týdně.**
 
