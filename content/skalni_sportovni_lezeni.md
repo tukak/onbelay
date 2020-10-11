@@ -13,12 +13,13 @@ poradi: "1"
 
 **Podmínkou pro absolvování kurzu skalního lezení je absolvování základního kurzu lezení na umělé stěně, případně prokázání odpovídajících dovedností.**
 
+
 **Cena kurzu:**
 
 |  | 1/2 den | 1 den | 2 dny | 3 dny |
 | --- | --- | --- | --- | --- |
-| 1 osoba | 3000 | 4300 | 8000 | 12000 |
-| 2 osoby | 1600 | 2200 | 4200 | 6200 |
+| 1 osoba | 3000 | 5000 | 9500 | 13000 |
+| 2 osoby | 1700 | 2700 | 4900 | 6700 |
 
 * ***v ceně kurzu není zahrnuta doprava ani případné ubytování účastníků kurzu;**
 * ***je možné se domluvit na společné dopravě**
