@@ -25,7 +25,7 @@ poradi: "3"
 
 #### **Místo a čas konání kurzu závisí na domluvě, obvyklá frekvence kurzu je 1 lekce týdně.**
 
-#### můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček)
+#### **můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček)**
 
 ### **Cena kurzu:**
 
