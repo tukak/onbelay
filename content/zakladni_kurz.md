@@ -29,11 +29,13 @@ poradi: "2"
 
 **Maximální počet účastníků kurzu: 4**
 
-**Cena kurzu**
+**Cena kurzu/os.**
+
+**můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček)**
 
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby |
 | --- | --- | --- | --- |
-| 2800 | 1500 | 1300 | 1100 |
+| 3300 | 1800 | 1400 | 1200 |
 
 \* cena nezahrnuje vstup na stěnu
 
