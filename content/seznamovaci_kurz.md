@@ -15,11 +15,11 @@ poradi: "1"
 
 #### **Maximální počet účastníků kurzu: 4**
 
-#### **Cena kurzu**
+#### **Cena kurzu/os.**
 
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby | rodina (2+3) |
 | --- | --- | --- | --- | --- |
-| 800 | 500 | 400 | 350 | 1500 |
+| 1000 | 600 | 500 | 400 | 1500 |
 
 #### * cena nezahrnuje vstup na stěnu
 
