@@ -3,7 +3,6 @@ title: Základní lezecký kurz
 image: images/IMG_6870.JPG
 type: kurzy
 poradi: "2"
-draft: true
 
 ---
 **V základním kurzu Vás ve 4 lekcích (4 x 2 hodiny) postupně seznámíme se**
