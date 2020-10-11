@@ -31,7 +31,7 @@ poradi: "2"
 
 **Cena kurzu/os.**
 
-**můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček)**
+**Můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček).**
 
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby |
 | --- | --- | --- | --- |
