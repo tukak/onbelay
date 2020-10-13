@@ -30,12 +30,12 @@ summaryLength = "7"
     [[menu.nav]]
     name = "Horské výstupy"
     URL = "vystupy"
-    weight = 4    
+    weight = 5    
 
     [[menu.nav]]
     name = "Kontaktujte nás"
     URL = "contact-us"
-    weight = 5
+    weight = 6
 
 
 
