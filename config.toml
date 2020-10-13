@@ -28,6 +28,11 @@ summaryLength = "7"
     weight = 4
 
     [[menu.nav]]
+    name = "Horské výstupy"
+    URL = "vystupy"
+    weight = 4    
+
+    [[menu.nav]]
     name = "Kontaktujte nás"
     URL = "contact-us"
     weight = 5
@@ -209,3 +214,7 @@ title = "Informace o <span>kurzech</span>"
 [params.skaly]
 enable = true
 title = "Informace o <span>skalách</span>"
+
+[params.vystupy]
+enable = true
+title = "Informace o <span>horských výstupech</span>"
