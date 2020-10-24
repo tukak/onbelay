@@ -9,12 +9,9 @@ type = "kurzy"
 
 ### Maximální počet osob: 4
 
-|  | cena/os |
-| --- | --- |
-| 1 osoba | 3500 |
-| 2 osoby | 1800 |
-| 3 osoby | 1400 |
-| 4 osoby | 1200 |
+|  | cena|
+| 1/2 den | 1 den |
+| 3400 | 5400 |
 
 * *cena je závislá na destinaci, resp. na dopravě a časové náročnosti
 * ![](/images/klaus-huber-2KpJ7EpccGQ-unsplash.jpg)
