@@ -1,6 +1,6 @@
 ---
 title: Horské výstupy
-image: img_20190823_162100_1-2-logo.jpg
+image: "/images/img_20190823_162100_1-2-logo.jpg"
 type: vystupy
 poradi: "1"
 
