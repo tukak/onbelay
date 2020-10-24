@@ -7,7 +7,7 @@ type = "kurzy"
 +++
 ### Rádi se s Vámi vydáme za objevováním krás ferrat.
 
-### Maximální počet osob: 6
+### Maximální počet osob: 4
 
 |  | cena/os |
 | --- | --- |
