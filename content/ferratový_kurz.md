@@ -11,8 +11,8 @@ type = "kurzy"
 
 |  | cena|
 |  | 1/2 den | 1 den | |
-| --- | --- |
-| | 3400 | 5400 |
+|  | --- | --- |
+|  | 3400 | 5400 |
 
 
 * *v ceně není zahrnuta doprava
