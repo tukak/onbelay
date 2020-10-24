@@ -10,6 +10,7 @@ type = "kurzy"
 ### Maximální počet osob: 4
 
 **Cena:**
+
 | 1/2 den | 1 dny |
 |---------|-------|
 | 3400    | 5400  |
