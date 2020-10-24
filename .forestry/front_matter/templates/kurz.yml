@@ -19,3 +19,5 @@ fields:
   name: poradi
   label: Pořadí
   description: Pořadí, v jakém se zobrazí na stránce
+pages:
+- content/ledolezeni.md
