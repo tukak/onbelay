@@ -10,9 +10,10 @@ type = "kurzy"
 ### Maximální počet osob: 4
 
 |  | cena|
-| 1/2 den | 1 den |
-| --- | --- | --- | --- |
-| 3400 | 5400 |
+|  | 1/2 den | 1 den | |
+| --- | --- |
+| | 3400 | 5400 |
+
 
 * *v ceně není zahrnuta doprava
 * ![](/images/klaus-huber-2KpJ7EpccGQ-unsplash.jpg)
