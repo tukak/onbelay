@@ -217,49 +217,6 @@ nav#navigation_single .block {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /*--
-    blog Start
-    --*/
-    #kurzy .block {
-        text-align: center;
-    }
-    #kurzy .block ul {
-        padding-bottom: 40px;
-    }
-    #kurzy .block ul li {
-        width: 100%;
-    }
-    #kurzy .block ul li h3 {
-        padding: 0px 0px 30px;
-    }
-    #kurzy .block ul li .blog-img {
-        width: 50%;
-    }
-    #kurzy .block ul li .blog-img img {
-        width: 100%;
-    }
-    #kurzy .block ul li .blog-img-2 {
-        width: 50%;
-    }
-    #kurzy .block ul li .blog-img-2 img {
-        width: 100%;
-    }
-    #kurzy .block ul li .content-left {
-        padding: 40px 20px 0;
-    }
-    #kurzy .block ul li .content-right {
-        padding: 40px 20px 0;
-    }
-    #kurzy .block .btn-more-info {
-        float: none;
-        margin-top: 30px;
-    }
-    #kurzy .block .btn-more-info:hover {
-        border-radius: 10px;
-    }
-    /*--
-    blog Start
---*/
     .obsah .block {
         text-align: center;
     }
@@ -300,58 +257,6 @@ nav#navigation_single .block {
 }
 
 @media only screen and (max-width: 767px) {
-    /*--
-    blog Start
---*/
-    #kurzy .block ul {
-        padding-bottom: 30px;
-    }
-    #kurzy .block ul li {
-        float: none;
-        width: 100%;
-        height: 100%;
-    }
-    #kurzy .block ul li .blog-img {
-        float: none;
-        width: 100%;
-    }
-    #kurzy .block ul li .blog-img img {
-        width: 100%;
-    }
-    #kurzy .block ul li .blog-img-2 {
-        float: none;
-        width: 100%;
-    }
-    #kurzy .block ul li .blog-img-2 img {
-        width: 100%;
-    }
-    #kurzy .block ul li .content-right {
-        float: none;
-        width: 100%;
-        padding: 20px 35px;
-    }
-    #kurzy .block ul li .content-right:after {
-        display: none;
-    }
-    #kurzy .block ul li .content-left {
-        float: none;
-        width: 100%;
-        padding: 20px 35px;
-    }
-    #kurzy .block ul li .content-left:after {
-        display: none;
-    }
-    #kurzy .block .btn-more-info {
-        float: none;
-        margin-top: 30px;
-        padding: 28px 85px;
-    }
-    #kurzy .block .btn-more-info:hover {
-        border-radius: 10px;
-    }
-    /*--
-    blog Start
---*/
     .obsah .block ul {
         padding-bottom: 30px;
     }
@@ -396,55 +301,6 @@ nav#navigation_single .block {
         padding: 28px 85px;
     }
     .obsah .block .btn-more-info:hover {
-        border-radius: 10px;
-    }
-    /*--
-    blog Start
---*/
-    #vystupy .block ul {
-        padding-bottom: 30px;
-    }
-    #vystupy .block ul li {
-        float: none;
-        width: 100%;
-        height: 100%;
-    }
-    #vystupy .block ul li .blog-img {
-        float: none;
-        width: 100%;
-    }
-    #vystupy .block ul li .blog-img img {
-        width: 100%;
-    }
-    #vystupy .block ul li .blog-img-2 {
-        float: none;
-        width: 100%;
-    }
-    #vystupy .block ul li .blog-img-2 img {
-        width: 100%;
-    }
-    #vystupy .block ul li .content-right {
-        float: none;
-        width: 100%;
-        padding: 20px 35px;
-    }
-    #vystupy .block ul li .content-right:after {
-        display: none;
-    }
-    #vystupy .block ul li .content-left {
-        float: none;
-        width: 100%;
-        padding: 20px 35px;
-    }
-    #vystupy .block ul li .content-left:after {
-        display: none;
-    }
-    #vystupy .block .btn-more-info {
-        float: none;
-        margin-top: 30px;
-        padding: 28px 85px;
-    }
-    #vystupy .block .btn-more-info:hover {
         border-radius: 10px;
     }
 }
