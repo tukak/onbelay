@@ -1,7 +1,7 @@
 +++
 draft = true
 image = ""
-poradi = nil
+poradi = 4
 title = "Ledolezení"
 type = "kurzy"
 
