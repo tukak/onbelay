@@ -21,3 +21,4 @@ fields:
   description: Pořadí, v jakém se zobrazí na stránce
 pages:
 - content/ledolezeni.md
+- content/skialp.md
