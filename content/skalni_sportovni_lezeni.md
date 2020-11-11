@@ -22,5 +22,5 @@ poradi: "1"
 | 1 osoba | 3000 | 5000 | 9500 | 13000 |
 | 2 osoby | 1700 | 2700 | 4900 | 6700 |
 
-* ***v ceně kurzu není zahrnuta doprava ani případné ubytování účastníků kurzu;**
+* ***v ceně kurzu není zahrnuta doprava, pojištění ani případné ubytování účastníků kurzu;**
 * ***je možné se domluvit na společné dopravě**
