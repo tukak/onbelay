@@ -1,7 +1,7 @@
 +++
 image = "/images/p2010317.JPG"
 poradi = 4
-title = "Ledolezení"
+title = "Ledy"
 type = "kurzy"
 
 +++
