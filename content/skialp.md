@@ -1,6 +1,6 @@
 +++
 image = "/images/img_20200209_092348_2.jpg"
-poradi = nil
+poradi = 1
 title = "Skialp"
 type = "kurzy"
 
