@@ -11,8 +11,6 @@ type = "kurzy"
 
 ![](/images/dscn3399.JPG)
 
- 
-
 ![](/images/dscn3896.JPG)
 
 ![](/images/dscn3360.JPG)
