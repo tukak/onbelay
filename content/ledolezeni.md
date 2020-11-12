@@ -9,10 +9,22 @@ type = "kurzy"
 
 ### **Můžete si nás ale najmout i na individuální výstupy v horách a zlezení vysněných ledopádů (max. počet hostů - 2).**
 
-#####  **Cena od 270 E/den zahrnuje výdaje na dopravu a ubytování guida, nezahrnuje náklady na dopravu, ubytování, lanovky a pojištění klientů.**
+##### **Cena od 270 E/den zahrnuje výdaje na dopravu a ubytování guida, nezahrnuje náklady na dopravu, ubytování, lanovky a pojištění klientů.**
+
+ 
+
+ 
 
 ![](/images/p2020348.JPG)
 
+ 
+
+ 
+
 ![](/images/dscn0938.jpg)
+
+ 
+
+ 
 
 ![](/images/dscf2115.jpg)
