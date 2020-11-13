@@ -18,7 +18,7 @@ summaryLength = "7"
     weight = 2
 
     [[menu.nav]]
-    name = "Kurzy"
+    name = "Lezecké kurzy"
     URL = "kurzy"
     weight = 3
     
@@ -28,14 +28,29 @@ summaryLength = "7"
     weight = 4
 
     [[menu.nav]]
+    name = "Ledy"
+    URL = "ledy"
+    weight = 5
+
+    [[menu.nav]]
     name = "Horské výstupy"
     URL = "vystupy"
-    weight = 5    
+    weight = 6
+
+    [[menu.nav]]
+    name = "Skialp"
+    URL = "skialp"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 8
 
     [[menu.nav]]
     name = "Kontaktujte nás"
     URL = "contact-us"
-    weight = 6
+    weight = 9
 
 
 
