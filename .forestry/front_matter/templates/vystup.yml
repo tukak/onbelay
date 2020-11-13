@@ -12,7 +12,7 @@ fields:
   name: type
   label: type
   default: vystupy
-  hidden: true
+  hidden: false
 - type: number
   name: poradi
   label: poradi
