@@ -1,0 +1,19 @@
+---
+label: Led
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: image
+  label: image
+- type: text
+  name: type
+  label: type
+  default: ledy
+  hidden: true
+- type: number
+  name: poradi
+  label: poradi
+  description: Pořadí, v jakém se zobrazí na stránce
