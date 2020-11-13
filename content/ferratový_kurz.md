@@ -2,7 +2,7 @@
 image = "/images/maja-kochanowska-YslVSKPZe0E-unsplash.jpg"
 poradi = 6
 title = "Ferraty"
-type = "skaly"
+type = "kurzy"
 
 +++
 ### Rádi se s Vámi vydáme za objevováním krás ferrat.

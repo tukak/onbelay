@@ -20,5 +20,6 @@ fields:
   label: Pořadí
   description: Pořadí, v jakém se zobrazí na stránce
 pages:
+- content/ferratový_kurz.md
 - content/ledolezeni.md
 - content/skialp.md
