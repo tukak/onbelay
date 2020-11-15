@@ -15,9 +15,10 @@ type = "kurzy"
 | --- | --- |
 | 3400 | 5400 |
 
+* &nbsp;
 * *v ceně není zahrnuta doprava, ubytování ani pojištění klientů
-* &nbsp;
-* &nbsp;
+*  
+*  
 * ![](/images/klaus-huber-2KpJ7EpccGQ-unsplash.jpg)
-* &nbsp
+* &nbsp;
 * ![](/images/maja-kochanowska-EiJQdDI_t_Y-unsplash.jpg)
