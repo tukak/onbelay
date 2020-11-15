@@ -13,22 +13,30 @@ poradi: "1"
 
 #### **Místo a čas konání kurzu závisí na domluvě (možnost výběru z několika umělých stěn v Brně).**
 
+&nbsp;
+
 #### **Maximální počet účastníků kurzu: 4**
+
+&nbsp;
 
 #### **Cena kurzu/os.**
 
+&nbsp;
+
 #### **Můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček).**
+
+&nbsp;
 
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby | rodina (2+3) |
 | --- | --- | --- | --- | --- |
 | 1000 | 600 | 500 | 400 | 1500 |
 
-&nbsp;
+ &nbsp;
 
 #### * cena nezahrnuje vstup na stěnu
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 ![](/images/jonathan-j-castellon-32AwP3Wisa8-unsplash-1.jpg)
