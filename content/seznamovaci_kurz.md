@@ -23,10 +23,12 @@ poradi: "1"
 | --- | --- | --- | --- | --- |
 | 1000 | 600 | 500 | 400 | 1500 |
 
+&nbsp;
+
 #### * cena nezahrnuje vstup na stěnu
 
-&nbsp
+&nbsp;
 
-&nbsp
+&nbsp;
 
 ![](/images/jonathan-j-castellon-32AwP3Wisa8-unsplash-1.jpg)
