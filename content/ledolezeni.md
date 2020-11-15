@@ -9,20 +9,24 @@ type = "ledy"
 
 ### **Můžete si nás ale najmout i na individuální výstupy v horách a zlezení vysněných ledopádů (max. počet hostů - 2).**
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 #### **Cena od 270 E/den zahrnuje výdaje na dopravu a ubytování guida, nezahrnuje náklady na dopravu, ubytování, lanovky a pojištění klientů.**
 
-####  
-
- 
+#### 
 
 #### 
 
 ![](/images/p2020348.JPG)
 
-![](/images/dscn0938.jpg)
+&nbsp;
+
+&nbsp;![](/images/dscn0938.jpg)
+
+&nbsp;
+
+&nbsp;
 
 ![](/images/dscf2115.jpg)
