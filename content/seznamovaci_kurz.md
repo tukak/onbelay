@@ -25,4 +25,8 @@ poradi: "1"
 
 #### * cena nezahrnuje vstup na stěnu
 
+&nbsp
+
+&nbsp
+
 ![](/images/jonathan-j-castellon-32AwP3Wisa8-unsplash-1.jpg)
