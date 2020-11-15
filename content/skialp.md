@@ -11,6 +11,12 @@ type = "skialp"
 
 ![](/images/dscn3399.JPG)
 
-![](/images/dscn3896.JPG)
+&nbsp
+
+&nbsp
+
+![](/images/dscn3896.JPG)&nbsp
+
+&nbsp
 
 ![](/images/dscn3360.JPG)
