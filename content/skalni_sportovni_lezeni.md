@@ -9,11 +9,17 @@ poradi: "1"
 
 ### **Kurz je možné pojmout jako výukový, tj. seznámíme Vás se zásadami, pravidly a specifiky bezpečného lezení v konkrétním přírodním terénu, jištěním, slaňováním atd. To znamená, že převedeme do lezecké praxe všechno to, co jsme Vás naučili v kurzech lezení na umělé stěně. Anebo si můžete v pohodě zalézt na "druhém" konci lana a užít si v klidu svůj (nejen) první den na skalách.**
 
+&nbsp;
+
 ### **Maximální počet účastníků: 2**
 
 ### **Podmínkou pro absolvování kurzu skalního lezení je absolvování základního kurzu lezení na umělé stěně, případně prokázání odpovídajících dovedností.**
 
+&nbsp;
+
 ### **Můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček).**
+
+&nbsp;
 
 ### **Cena kurzu:**
 
