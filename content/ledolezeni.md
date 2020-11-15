@@ -11,9 +11,9 @@ type = "ledy"
 
 ##### **Cena od 270 E/den zahrnuje výdaje na dopravu a ubytování guida, nezahrnuje náklady na dopravu, ubytování, lanovky a pojištění klientů.**
 
-&nbsp
+&nbsp;
 
-&nbsp
+&nbsp;
 
 ![](/images/p2020348.JPG)
 
