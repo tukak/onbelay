@@ -33,4 +33,5 @@ poradi: "3"
 | --- |
 | 4000 |
 
+* &nbsp;
 * ***cena nezahrnuje vstup na stěnu**
