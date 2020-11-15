@@ -27,20 +27,30 @@ poradi: "2"
 
 ### **Místo a čas konání kurzu závisí na domluvě - máme možnost výběru z několika umělých stěn v Brně. Kurz obvykle probíhá 1x2 hodiny týdně, případně 2x2 hodiny týdně.**
 
+&nbsp;
+
 ### **Maximální počet účastníků kurzu: 4**
+
+&nbsp;
 
 ### **Cena kurzu/os.**
 
+&nbsp;
+
 ### **Můžeme zapůjčit některé lezecké vybavení zdarma (kromě lezeček).**
+
+&nbsp;
 
 | 1 osoba | 2 osoby | 3 osoby | 4 osoby |
 | --- | --- | --- | --- |
 | 3300 | 1800 | 1400 | 1200 |
 
+&nbsp;
+
 \* cena nezahrnuje vstup na stěnu
 
-&nbsp
+&nbsp;
 
-&nbsp
+&nbsp;
 
 ![](/images/victor-xok-oyPLmauJzzo-unsplash.jpg)
