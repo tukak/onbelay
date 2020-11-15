@@ -9,16 +9,18 @@ type = "kurzy"
 
 ### Maximální počet osob: 4
 
+&nbsp;
+
 **Cena:**
 
 | 1/2 den | 1 den |
 | --- | --- |
 | 3400 | 5400 |
 
-* &nbsp;
+*  
 * *v ceně není zahrnuta doprava, ubytování ani pojištění klientů
-*  
-*  
+* 
+* 
 * ![](/images/klaus-huber-2KpJ7EpccGQ-unsplash.jpg)
-* &nbsp;
+*  
 * ![](/images/maja-kochanowska-EiJQdDI_t_Y-unsplash.jpg)
