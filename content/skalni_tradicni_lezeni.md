@@ -22,8 +22,9 @@ poradi: "2"
 | 1 osoba | 5200 | 10000 | 14000 |
 | 2 osoby | 2800 | 5200 | 7200 |
 
+* &nbsp;
 * *je možné se domluvit na společné dopravě
 *  
 *  ![](/images/_DSC5125 - kopie.jpg)
-*  
+*  &nbsp;
   ![](/images/DSCN5549.JPG)
