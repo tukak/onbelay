@@ -7,7 +7,11 @@ type = "kurzy"
 +++
 ### Rádi se s Vámi vydáme za objevováním krás ferrat.
 
+&nbsp;
+
 ### Maximální počet osob: 4
+
+&nbsp;
 
 **Cena:**
 
@@ -15,9 +19,9 @@ type = "kurzy"
 | --- | --- |
 | 3400 | 5400 |
 
-* &nbsp;
+*  
 * *v ceně není zahrnuta doprava, ubytování ani pojištění klientů
-*  &nbsp;
-* ![](/images/klaus-huber-2KpJ7EpccGQ-unsplash.jpg)&nbsp;
-* &nbsp;
+*  
+* ![](/images/klaus-huber-2KpJ7EpccGQ-unsplash.jpg) 
+*  
 * ![](/images/maja-kochanowska-EiJQdDI_t_Y-unsplash.jpg)
