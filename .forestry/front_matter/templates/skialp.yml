@@ -11,7 +11,7 @@ fields:
 - type: text
   name: type
   label: type
-  default: skialpy
+  default: skialp
   hidden: false
 - type: number
   name: poradi

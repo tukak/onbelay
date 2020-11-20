@@ -240,6 +240,6 @@ title = "Informace o <span>horských výstupech</span>"
 enable = true
 title = "Informace o <span>ledech</span>"
 
-[params.skialpy]
+[params.skialp]
 enable = true
 title = "Informace o <span>skialpech</span>"
