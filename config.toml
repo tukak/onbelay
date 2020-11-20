@@ -58,6 +58,8 @@ summaryLength = "7"
 [params]
 logo = "images/logo.png"
 description = 'Soustředíme se na výuku horolezectví od základů až k pokročilejším technikám, individuálně nebo v menších skupinách. Najdete nás v Brně.'
+logo_cahv = "images/cmga_blue.png"
+
 
 [params.custom_css]
 custom = "css/custom.css"
