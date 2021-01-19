@@ -1,6 +1,6 @@
 +++
 image = "/images/img_20210117_134303_7-2-kopie.jpg"
-poradi = nil
+poradi = 1
 title = "Jednodenní skialp v českých horách"
 type = "skialp"
 
