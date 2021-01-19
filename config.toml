@@ -1,245 +1,161 @@
 baseURL = "https://www.onbelay.cz/"
 languageCode = "en-us"
-title = "Onbelay"
-theme = "restaurant"
 summaryLength = "7"
-
-# Menu
-[menu]
-	
-	[[menu.nav]]
-    name = "Domů"
-    URL = "hero-area"
-    weight = 1
-
-    [[menu.nav]]
-    name = "O nás"
-    URL = "about-us"
-    weight = 2
-
-    [[menu.nav]]
-    name = "Lezecké kurzy"
-    URL = "kurzy"
-    weight = 3
-    
-    [[menu.nav]]
-    name = "Skály"
-    URL = "skaly"
-    weight = 4
-
-    [[menu.nav]]
-    name = "Ledy"
-    URL = "ledy"
-    weight = 5
-
-    [[menu.nav]]
-    name = "Horské výstupy"
-    URL = "vystupy"
-    weight = 6
-
-    [[menu.nav]]
-    name = "Skialp"
-    URL = "skialp"
-    weight = 7
-
-    [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 8
-
-    [[menu.nav]]
-    name = "Kontaktujte nás"
-    URL = "contact-us"
-    weight = 9
-
-
-
-# Global Settings
+theme = "restaurant"
+title = "Onbelay"
+[[menu.nav]]
+URL = "contact-us"
+name = "Kontaktujte nás"
+weight = 9
+[[menu.nav]]
+URL = "blog"
+name = "Blog"
+weight = 8
+[[menu.nav]]
+URL = "skialp"
+name = "Skialp"
+weight = 7
+[[menu.nav]]
+URL = "vystupy"
+name = "Horské výstupy"
+weight = 6
+[[menu.nav]]
+URL = "ledy"
+name = "Ledy"
+weight = 5
+[[menu.nav]]
+URL = "kurzy"
+name = "Lezecké kurzy"
+weight = 3
+[[menu.nav]]
+URL = "skaly"
+name = "Skály"
+weight = 4
+[[menu.nav]]
+URL = "about-us"
+name = "O nás"
+weight = 2
+[[menu.nav]]
+URL = "hero-area"
+name = "Domů"
+weight = 1
 [params]
+description = "Soustředíme se na výuku horolezectví od základů až k pokročilejším technikám, individuálně nebo v menších skupinách. Najdete nás v Brně."
 logo = "images/logo.png"
-description = 'Soustředíme se na výuku horolezectví od základů až k pokročilejším technikám, individuálně nebo v menších skupinách. Najdete nás v Brně.'
 logo_cahv = "images/cmga_blue.png"
-
-
+[params.about]
+bgImage = "images/logo_original.png"
+description = "Jsme rádi, že jste navštívili naše stránky. V OnBelay lezeckých kurzech se soustředíme na výuku horolezectví od základů až k pokročilejším technikám, a to individuálně nebo v menších skupinách. Tím zaručujeme individuální přístup ke každému z Vás s důrazem na bezpečnost a praktičnost současně. Nabízíme mnohaletou zkušenost z výuky v horolezeckém oddíle.\n<br>\nZároveň budeme rádi, pokud se s námi vydáte do skal i hor nejen v ČR, ale i v zahraničí. Ať už za sbíráním zkušeností nebo nevšedních zážitků. Rádi Vám představíme nové skalní a horské oblasti i jejich horolezecká specifika, vylezeme si s vámi na vrcholy hor nebo z nich slyžujeme. Bude nám ctí i potěšením pomoct Vám splnit si sen.\n<br> \nNajdete nás v Brně."
+description2 = "Mgr. Ladislav Petráš - přes 10 let jsem členem horolezeckého oddílu Lokomotiva Brno, kde jsem také jako instruktor ČHS několik let vedl oddílovou horoškolu. V současné době jsem ve výcviku horských vůdců ČAHV/UIAGM (horský vůdce - aspirant/Aspirant guide) a držitelem licence MŠMT instruktor skalního lezení a lezení na umělé stěně. Horolezectví se věnuju přes 15 let a zkušenosti sbírám na skalách a v horách nejen v Evropě.\nMezi moje oblíbené disciplíny patří tradiční lezení, ať to pískovcové v ČR, anebo horské v blízkých Tatrách nebo trochu vzdálenějších Alpách. Do současnosti jsem měl možnost lézt v USA, Kanadě, Jordánsku, po celé Evropě, za polárním kruhem, v létě i v zimě. Mými oblíbenými destinacemi jsou Adršpach, Chamonix a Vysoké Tatry. Z hodnotnějších nebo klasických přelezů se mi podařily např. severní stěna Grandes Jorasses, Innominata Integrale na Mt. Blanc, Cima Grande, severní stěna Ortleru, Chief a Bugaboo Spire v Kanadě, Presten v Norsku, Cassinova cesta na Piz Badile, jižní stěna Dachsteinu..."
+enable = true
+img = "images/DSCF3167.JPG"
+title = "<span>Onbelay</span>"
+[params.blog]
+enable = false
+[params.contact]
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+enable = true
+subtitle = "A my se vám ozveme zpátky"
+title = "<span> Napište nám </span>"
 [params.custom_css]
 custom = "css/custom.css"
-
-[params.heroArea]
-enable = true
-[params.heroImg ] 
-url =  "images/header.jpg" 
-
-
-#gallery item
-
-[params.gallery]
-enable = true
-title= "<span>Fotografie</span>"
-
-[[params.gallery.item]]
-img = "images/slider/1.jpg"
-img_large = "images/slider/1_big.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/2.jpg"
-img_large = "images/slider/2_big.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/3.jpg"
-img_large = "images/slider/3_big.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/4.jpg"
-img_large = "images/slider/4_big.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/5.jpg"
-img_large = "images/slider/5_big.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/6.jpg"
-img_large = "images/slider/6_big.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/7.jpg"
-img_large = "images/slider/7_big.jpg"
-
-
-[params.about]
-enable = true
-title= "<span>Onbelay</span>"
-bgImage = "images/logo_original.png"
-description= """Jsme rádi, že jste navštívili naše stránky. V OnBelay lezeckých kurzech se soustředíme na výuku horolezectví od základů až k pokročilejším technikám, a to individuálně nebo v menších skupinách. Tím zaručujeme individuální přístup ke každému z Vás s důrazem na bezpečnost a praktičnost současně. Nabízíme mnohaletou zkušenost z výuky v horolezeckém oddíle.
-<br>
-Zároveň budeme rádi, pokud se s námi vydáte do skal i hor nejen v ČR, ale i v zahraničí. Ať už za sbíráním zkušeností nebo nevšedních zážitků. Rádi Vám představíme nové skalní a horské oblasti i jejich horolezecká specifika, vylezeme si s vámi na vrcholy hor nebo z nich slyžujeme. Bude nám ctí i potěšením pomoct Vám splnit si sen.
-<br> 
-Najdete nás v Brně."""
-description2= """Mgr. Ladislav Petráš - přes 10 let jsem členem horolezeckého oddílu Lokomotiva Brno, kde jsem také jako instruktor ČHS několik let vedl oddílovou horoškolu. V současné době jsem ve výcviku horských vůdců ČAHV/UIAGM (horský vůdce - aspirant/Aspirant guide) a držitelem licence MŠMT instruktor skalního lezení a lezení na umělé stěně. Horolezectví se věnuju přes 15 let a zkušenosti sbírám na skalách a v horách nejen v Evropě.
-Mezi moje oblíbené disciplíny patří tradiční lezení, ať to pískovcové v ČR, anebo horské v blízkých Tatrách nebo trochu vzdálenějších Alpách. Do současnosti jsem měl možnost lézt v USA, Kanadě, Jordánsku, po celé Evropě, za polárním kruhem, v létě i v zimě. Mými oblíbenými destinacemi jsou Adršpach, Chamonix a Vysoké Tatry. Z hodnotnějších nebo klasických přelezů se mi podařily např. severní stěna Grandes Jorasses, Innominata Integrale na Mt. Blanc, Cima Grande, severní stěna Ortleru, Chief a Bugaboo Spire v Kanadě, Presten v Norsku, Cassinova cesta na Piz Badile, jižní stěna Dachsteinu..."""
-img = "images/DSCF3167.JPG"
-
-
-#food Menu
-
 [params.foodMenu]
+description = " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
 enable = false
-title = "Our Easy <span>PRICE</span>"
-description= " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
 subtitle = "FEATURED ON THE WEEK"
-
+title = "Our Easy <span>PRICE</span>"
 [[params.foodMenu.item]]
-title="Pancakes n' Such Titas"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
 price = "$ 125.00"
-
+title = "Pancakes n' Such Titas"
 [[params.foodMenu.item]]
-title="Caesar Salad"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
 price = "$ 100.00"
-
+title = "Caesar Salad"
 [[params.foodMenu.item]]
-title="Steak with a Garlic and Parsley Risotto"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
 price = "$ 20.00"
-
+title = "Steak with a Garlic and Parsley Risotto"
 [[params.foodMenu.item]]
-title="Meat of Skewers"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
 price = "$ 45.00"
-
+title = "Meat of Skewers"
 [[params.foodMenu.item]]
-title="Pancakes n' Such"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
 price = "$ 25.00"
-
-
-
-#subscription
-
-[params.subscription]
-enable = false
-title= "SUBSCRIBE to our <span>NEWSLETTER</span>"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
-
-#Mailchimp subscription configaration 
-formAction = "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-formName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
-
-#Contact 
-
-[params.contact]
-enable = true
-title= "<span> Napište nám </span>"
-subtitle= "A my se vám ozveme zpátky"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
-
-
-#Footer 
-
+title = "Pancakes n' Such"
 [params.footer]
-enable = true
 contactInfoTitle = "KONTAKTNÍ <span>INFORMACE</span> "
-#blogTitle = "LATEST <span>BLOG POSTS</span>"
+enable = true
 galleryTitle = "<span>FOTKY</span>"
 socialTitle = "SLEDUJTE <span>NÁS</span>"
-
 [[params.footer.contactItem]]
-title="Telefon"
-icon = "fa fa-phone"
 content = "+420 728 342 832"
-
+icon = "fa fa-phone"
+title = "Telefon"
 [[params.footer.contactItem]]
-title="Adresa"
+content = "Mgr. Ladislav Petráš<br>\nPoskytování tělovýchovných a sportovních služeb v oblasti skalního lezení, Mountainguiding<br>\nregistrován na: Městský úřad Velké Meziříčí, Radnická 29/1, 594 13 Velké Meziříčí <br>\nIČO: 76296962<br>\nsídlo firmy: Tyršova 22, Velká Bíteš 595 01 <br>\nč.ú.: 670100-2201624134/6210 (mBank)"
 icon = "fa fa-map-marker"
-content = """Mgr. Ladislav Petráš<br>
-Poskytování tělovýchovných a sportovních služeb v oblasti skalního lezení, Mountainguiding<br>
-registrován na: Městský úřad Velké Meziříčí, Radnická 29/1, 594 13 Velké Meziříčí <br>
-IČO: 76296962<br>
-sídlo firmy: Tyršova 22, Velká Bíteš 595 01 <br>
-č.ú.: 670100-2201624134/6210 (mBank)"""
-
+title = "Adresa"
 [[params.footer.contactItem]]
-title="Email"
-icon = "fa fa-envelope"
 content = "info@onbelay.cz"
-
+icon = "fa fa-envelope"
+title = "Email"
 [[params.footer.socialLink]]
 icon = "facebook"
 link = "https://www.facebook.com/onbelay.cz"
-
 [[params.footer.socialLink]]
 icon = "instagram"
 link = "https://fb.com/themefisher"
-
-
-#Footer Copyright
-
-#Footer Copyright Text
 [params.footerCopyright]
-enable = true
 Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher.com"
-
-#blog 
-[params.blog]
-enable = false
-#title = "Informace o <span>kurzech</span> a <span>skálách</span>"
-
+enable = true
+[params.gallery]
+enable = true
+title = "<span>Fotografie</span>"
+[[params.gallery.item]]
+img = "images/slider/1.jpg"
+img_large = "images/slider/1_big.jpg"
+[[params.gallery.item]]
+img = "images/slider/2.jpg"
+img_large = "images/slider/2_big.jpg"
+[[params.gallery.item]]
+img = "images/slider/3.jpg"
+img_large = "images/slider/3_big.jpg"
+[[params.gallery.item]]
+img = "images/slider/4.jpg"
+img_large = "images/slider/4_big.jpg"
+[[params.gallery.item]]
+img = "images/slider/5.jpg"
+img_large = "images/slider/5_big.jpg"
+[[params.gallery.item]]
+img = "images/slider/6.jpg"
+img_large = "images/slider/6_big.jpg"
+[[params.gallery.item]]
+img = "images/slider/7.jpg"
+img_large = "images/slider/7_big.jpg"
+[params.heroArea]
+enable = true
+[params.heroImg]
+url = "images/header.jpg"
 [params.kurzy]
 enable = true
 title = "Informace o <span>kurzech</span>"
-
-[params.skaly]
-enable = true
-title = "Informace o <span>skalách</span>"
-
-[params.vystupy]
-enable = true
-title = "Informace o <span>horských výstupech</span>"
-
 [params.ledy]
 enable = true
 title = "Informace o <span>ledech</span>"
-
+[params.skaly]
+enable = true
+title = "Informace o <span>skalách</span>"
 [params.skialp]
 enable = true
 title = "Informace o <span>skialpech</span>"
+[params.subscription]
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+enable = false
+formAction = "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+formName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+title = "SUBSCRIBE to our <span>NEWSLETTER</span>"
+[params.vystupy]
+enable = true
+title = "Informace o <span>horských výstupech</span>"
