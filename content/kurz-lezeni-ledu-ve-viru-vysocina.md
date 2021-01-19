@@ -1,4 +1,5 @@
 +++
+draft = true
 image = "/images/dscn3137-2.JPG"
 poradi = nil
 title = "Kurz lezení ledů ve Víru (Vysočina)"
