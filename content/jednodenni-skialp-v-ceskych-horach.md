@@ -7,8 +7,8 @@ type = "skialp"
 +++
 ### **Jednodenní skialpové túry jsou ideálním způsobem, jak si vyzkoušet pohyb na skialpových lyžích ve volném terénu. Ukážeme Vám, jak na to. Ideálním místem jsou české hory (Krkonoše, Jeseníky, Beskydy).**
 
-#### Túry vedeme individuální i skupinové (max.6 hostů).
+#### Túry vedeme individuální i skupinové (max.8 hostů).
 
 #### Cena od 4500,- kč/den
 
-#### Napište nám nebo zavolejte a domluvíme se na konkrétním termínu.
+#### Napište nám nebo zavolejte a domluvíme se na konkrétních detailech.
