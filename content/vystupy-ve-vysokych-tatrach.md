@@ -1,5 +1,5 @@
 +++
-image = "/images/dscn8110.JPG"
+image = "/images/img_20200920_162912_3.jpg"
 poradi = 2
 title = "Výstupy ve Vysokých Tatrách"
 type = "vystupy"
