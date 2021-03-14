@@ -7,4 +7,4 @@ type = "vystupy"
 +++
 ## Nábízíme Vám jak klasické výstupy na významné štíty Vysokých Tater (Gerlachovský, Lomnický, Ľadový, Kežmarský...), tak i méně časté, avšak neméně krásné, cesty na další vrcholy těchto hor.
 
-#### Cena od 270 Euro (cena je závislá na zvolené destinaci, typu túry a počtu účastníků). V ceně není zahrnuto pojištění ani doprava účastníků.
+### Cena od 270 Euro (cena je závislá na zvolené destinaci, typu túry a počtu účastníků). V ceně není zahrnuto pojištění ani doprava účastníků.
