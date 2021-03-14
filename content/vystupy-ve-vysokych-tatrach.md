@@ -1,6 +1,6 @@
 +++
 image = "/images/dscn8110.JPG"
-poradi = nil
+poradi = 2
 title = "Výstupy ve Vysokých Tatrách"
 type = "vystupy"
 
