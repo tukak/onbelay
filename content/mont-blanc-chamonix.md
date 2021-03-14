@@ -1,6 +1,6 @@
 +++
 draft = true
-image = "/images/img_20200827_163216_6.jpg"
+image = "/images/img_20200827_163216_6-logo2.jpg"
 poradi = 3
 title = "Mont Blanc - Chamonix"
 type = "vystupy"
