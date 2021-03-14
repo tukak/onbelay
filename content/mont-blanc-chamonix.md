@@ -9,3 +9,5 @@ type = "vystupy"
 Chamonix - mekka alpinismu.
 
 Vydejte se s námi na alpské velikány klasickými výstupy.
+
+Nabídneme Vám i průstupy méně klasickými trasami na další vrcholy v oblasti Mont Blanc.
