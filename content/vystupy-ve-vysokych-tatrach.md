@@ -9,4 +9,5 @@ type = "vystupy"
 
 &nbsp;
 
+
 #### Cena od 270 Euro (cena je závislá na zvolené destinaci, typu túry a počtu účastníků). V ceně není zahrnuto pojištění, doprava ani ubytování účastníků.
