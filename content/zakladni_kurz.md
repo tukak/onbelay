@@ -29,7 +29,7 @@ poradi: "2"
 
 &nbsp;
 
-### **Maximální počet účastníků kurzu: 4**
+### **Maximální počet účastníků kurzu: 6**
 
 &nbsp;
 
