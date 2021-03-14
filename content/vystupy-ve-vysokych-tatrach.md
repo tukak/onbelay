@@ -11,4 +11,6 @@ type = "vystupy"
 
 ![](/images/img_20200921_071425_1-kopie.jpg)
 
+
+
 ![](/images/img_20200920_162912_3-kopie.jpg)
