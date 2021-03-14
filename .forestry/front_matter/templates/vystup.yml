@@ -18,4 +18,5 @@ fields:
   label: poradi
   description: Pořadí, v jakém se zobrazí na stránce
 pages:
+- content/mont-blanc-chamonix.md
 - content/vystupy-ve-vysokych-tatrach.md
