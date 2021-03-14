@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/dscn8110.JPG"
 poradi = nil
 title = "Výstupy ve Vysokých Tatrách"
