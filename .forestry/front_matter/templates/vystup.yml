@@ -18,5 +18,6 @@ fields:
   label: poradi
   description: Pořadí, v jakém se zobrazí na stránce
 pages:
+- content/eiger-3970-m.md
 - content/mont-blanc-chamonix.md
 - content/vystupy-ve-vysokych-tatrach.md
