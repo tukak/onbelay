@@ -101,6 +101,10 @@ title = "Adresa"
 content = "info@onbelay.cz"
 icon = "fa fa-envelope"
 title = "Email"
+[[params.footer.contactItem]]
+content = "<a href=obchodni_podminky>Obchodní podmínky</a>"
+icon = "fa  fa-gavel"
+title = "Obchodní podmínky"
 [[params.footer.socialLink]]
 icon = "facebook"
 link = "https://www.facebook.com/onbelay.cz"
