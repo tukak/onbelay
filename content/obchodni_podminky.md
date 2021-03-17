@@ -39,6 +39,8 @@ image: "/images/img_20190827_142222_0-2-kopie2.jpg"
 
 #### V případě, že se akce neuskuteční naší vinou, navrhneme Vám adekvátní náhradu ve formě jiné akce/jiného termínu, anebo Vám vrátíme 100% částky, kterou jste nám zaplatili.
 
+####  
+
 #### V případě, že zrušíte svoji účast na akci Vy, a to:
 
 #### - 30 a více dní před začátkem akce, neúčtujeme si žádné poplatky za služby horského vůdce,
