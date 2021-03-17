@@ -56,14 +56,22 @@ Pokud budete muset z nějakého důvodu zrušit svoji účast na akci, pak samoz
 
 V případě, že dojde ke zrušení akce v předstihu, a to v důsledku špatného počasí nebo jiných faktorů, které by mohly narušit bezpečnost nebo hladký průběh akce, pak Vám nabídneme adekvátní náhradu/termín akce, anebo Vám vrátíme Vámi zaplacenou částku za akci. V takovém případě bude částka pokrácena o případné zálohy za ubytování, které si ubytovatel bude účtovat jako storno poplatek.
 
+&nbsp;
+
 Horský vůdce/aspirant má právo přerušit túru, jestliže vyhodnotí situaci jako nebezpečnou z důvodu objektivních nebezpečí (počasí, laviny atp.), nebo není-li klient dostatečně způsobilý k dané túře. V takovém případě se akce považuje za započatou a cena akce zůstává nezměněná.
 
+&nbsp;
+
 Cílem horského vůdce/aspiranta je především zajistit bezpečnost klientů.
+
+&nbsp;
 
 **A ještě něco?**
 
 Každý klient je povinen si před akcí zařídit adekvátní pojištění odpovídající druhu akce.
 
 Každý klient má také povinnost nás dopředu informovat o svých případných zdravotních komplikacích, které by mohly ovlivnit bezpečnost akce (srdeční problémy, astma, alergie, diabetes apod.).
+
+&nbsp;
 
 Potvrzením svojí účasti na akci vyjadřujete souhlas s těmito podmínkami.
