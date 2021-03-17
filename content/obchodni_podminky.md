@@ -6,6 +6,8 @@ draft: true
 ---
 **Obchodní podmínky**
 
+&nbsp;
+
 **Kdo to vede?**
 
 Akce jsou vedené certifikovaným horským vůdcem UIAGM/ horským vůdcem UIAGM –aspirantem.
