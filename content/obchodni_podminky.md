@@ -10,9 +10,13 @@ draft: true
 
 Akce jsou vedené certifikovaným horským vůdcem UIAGM/ horským vůdcem UIAGM –aspirantem.
 
+&nbsp;
+
 **Jak na to?**
 
 Vyberete si z aktuální nebo stálé nabídky akci, která Vás zajímá, anebo se na nás obrátíte s vlastním přáním nebo cílem, který byste rádi s naší pomocí realizovali. Kontaktujete nás přes kontaktní e-mail, sms, telefon či jinak. My Vám poskytneme nezbytné informace o akci a domluvíme se s Vámi na podrobnostech.
+
+&nbsp;
 
 **Co je v ceně?**
 
@@ -28,6 +32,8 @@ Jako závaznou přihlášku na akci považujeme zaplacení:
 
 Cena/záloha by měla být uhrazena nejpozději 30 dnů před zahájením akce/túry/výstupu.
 
+&nbsp;
+
 **Storno podmínky**
 
 V případě, že se akce neuskuteční naší vinou, navrhneme Vám adekvátní náhradu ve formě jiné akce/jiného termínu, anebo Vám vrátíme 100% částky, kterou jste nám zaplatili.
@@ -42,7 +48,11 @@ V případě, že zrušíte svoji účast na akci Vy, a to:
 
 Jestliže svoji účast na **jednodenní akci** zrušíte nejpozději do 48 hodin před začátkem akce, vrátíme Vám 100% Vámi uhrazené částky. Jestliže to bude méně než 48 hodin před začátkem akce, vrátíme Vám 50% z ceny akce.
 
+&nbsp;
+
 Pokud budete muset z nějakého důvodu zrušit svoji účast na akci, pak samozřejmě za sebe můžete sehnat náhradu. My se o to budeme snažit také. Pokud se to podaří, pak Vám samozřejmě vrátíme plnou částku, kterou jste nám už zaplatili.
+
+&nbsp;
 
 V případě, že dojde ke zrušení akce v předstihu, a to v důsledku špatného počasí nebo jiných faktorů, které by mohly narušit bezpečnost nebo hladký průběh akce, pak Vám nabídneme adekvátní náhradu/termín akce, anebo Vám vrátíme Vámi zaplacenou částku za akci. V takovém případě bude částka pokrácena o případné zálohy za ubytování, které si ubytovatel bude účtovat jako storno poplatek.
 
