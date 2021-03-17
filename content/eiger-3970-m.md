@@ -20,9 +20,11 @@ type = "vystupy"
 
 ### Cena: 
 
-1. Dvoudenní varianta (Eiger) - 1200 Euro
-2. Třídenní varianta (Eiger + Mönch/Jungfrau) - 1400 Euro
-3. Čtyřdenní varianta (Eiger + Mönch + Jungfrau) - 1650 Euro
+### Dvoudenní varianta (Eiger) - 1200 Euro
+
+### Třídenní varianta (Eiger + Mönch/Jungfrau) - 1400 Euro
+
+### Čtyřdenní varianta (Eiger + Mönch + Jungfrau) - 1650 Euro
 
 ### V ceně jsou zahrnuty služby horského vůdce/aspiranta a jeho náklady (zubačka, spaní a jídlo na chatách atd.).
 
