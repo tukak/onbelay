@@ -3,7 +3,7 @@ title: Obchodní podmínky
 image: "/images/img_20190827_142222_0-2-kopie2.jpg"
 
 ---
-#### **Obchodní podmínky**
+#### 
 
 ####  
 
