@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/eiger_monch_jungfrau.jpg"
 poradi = 4
 title = "Eiger 3970 m"
