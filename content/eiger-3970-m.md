@@ -6,7 +6,7 @@ title = "Eiger 3970 m"
 type = "vystupy"
 
 +++
-### **Eiger** - švýcarská horolezecká ikona 3970 m vysoká.
+## **Eiger** - švýcarská horolezecká ikona 3970 m vysoká.
 
  
 
@@ -24,7 +24,7 @@ type = "vystupy"
 
  
 
-### Pokud je ale dobrá předpověď i fyzická kondice, je škoda nevyužít toho, že už budeme na místě, odkud se dá dosáhnout hned dvou vrcholů nad 4000m. S přespáním na chatě **Mönchsjochhütte** se nám nabízí ideální výchozí bod pro výstup klasickou cestou na Mönch hned nad chatou. Čtvrtý den ze stejné chaty vyrazíme na nedalekou Jungfrau, opět klasickou cestou, a ještě tentýž den sjedeme zpátky do vesnice.
+### Pokud je ale dobrá předpověď i fyzická kondice, je škoda nevyužít toho, že už budeme na místě, odkud se dá dosáhnout hned dvou vrcholů nad 4000m. S přespáním na chatě Mönchsjochhütte se nám nabízí ideální výchozí bod pro výstup klasickou cestou na Mönch hned nad chatou. Čtvrtý den ze stejné chaty vyrazíme na nedalekou Jungfrau, opět klasickou cestou, a ještě tentýž den sjedeme zpátky do vesnice.
 
  
 
