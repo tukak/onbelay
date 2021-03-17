@@ -1,6 +1,6 @@
 ---
 title: Obchodní podmínky
-image: ''
+image: "/images/img_20190827_142222_0-2-kopie2.jpg"
 draft: true
 
 ---
