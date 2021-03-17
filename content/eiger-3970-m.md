@@ -20,8 +20,8 @@ Pokud je ale dobrá předpověď i fyzická kondice, je škoda nevyužít toho, 
 
 Cena: 
 
-1. Dvoudenní varianta (Eiger) - 1200,- Euro
-2. Třídenní varianta (Eiger + Mönch/Jungfrau) - 1400,- Euro
+1. Dvoudenní varianta (Eiger) - 1200 Euro
+2. Třídenní varianta (Eiger + Mönch/Jungfrau) - 1400 Euro
 3. Čtyřdenní varianta (Eiger + Mönch + Jungfrau) - 1650 Euro
 
 V ceně jsou zahrnuty služby horského vůdce/aspiranta a jeho náklady (zubačka, spaní a jídlo na chatách atd.).
