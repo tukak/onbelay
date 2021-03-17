@@ -1,6 +1,6 @@
 +++
 draft = true
-image = "/images/marcreation-wmxhgurptj4-unsplash.jpg"
+image = "/images/eiger_monch_jungfrau.jpg"
 poradi = 4
 title = "Eiger 3970 m"
 type = "vystupy"
