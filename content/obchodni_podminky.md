@@ -51,7 +51,7 @@ image: "/images/img_20190827_142222_0-2-kopie2.jpg"
 
 ####  
 
-#### Jestliže svoji účast na **jednodenní akci** zrušíte nejpozději do 48 hodin před začátkem akce, vrátíme Vám 100% Vámi uhrazené částky. Jestliže to bude méně než 48 hodin před začátkem akce, vrátíme Vám 50% z ceny akce.
+#### Jestliže svoji účast na **jednodenní akci** zrušíte 48 hodin a více před začátkem akce, vrátíme Vám 100% Vámi uhrazené částky. Jestliže svoji účast zrušíte do 48 hodin před začátkem akce, vrátíme Vám 50% z ceny akce. Zrušíte-li svoji účast na takové akci v den zahájení akce, pak, bohužel pro Vás, si necháváme 100% ceny.
 
 ####  
 
