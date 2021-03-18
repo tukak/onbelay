@@ -1,7 +1,7 @@
 +++
 draft = true
 image = ""
-poradi = 5
+poradi = 6
 title = "Švýcarské 4000m"
 type = "vystupy"
 
