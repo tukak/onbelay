@@ -26,7 +26,7 @@ Počet účastníků: 2
 
  
 
-Cena: 500 Euro
+Cena: 450 Euro
 
  
 
@@ -46,4 +46,6 @@ Počet účastníků: 1
 
  
 
-Cena: 550 Euro
+Cena: 500 Euro
+
+* Členové AV a jiných spřátelených organizací mohou žádat na chatách slevu za nocleh (cca 10 Euro)
