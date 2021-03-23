@@ -29,6 +29,7 @@ type = "vystupy"
 #### Cena: 450 Euro
 
 ####  
+&nbsp;
 
 #### **Hřeben Stüdlgrat**
 
@@ -54,15 +55,18 @@ type = "vystupy"
 
  
 
-![](/images/gg-vrchol.JPG)z vrcholu GG
+![](/images/gg-vrchol.JPG)
+z vrcholu GG
 
  
 
-![](/images/z-gg-studlgrat.JPG)Stüdlgrat z vrcholu GG
+![](/images/z-gg-studlgrat.JPG)
+Stüdlgrat z vrcholu GG
 
  
 
-![](/images/pohled-z-gg-smer-oberwalderhutte.JPG)z vrcholu GG směrem k Oberwalderhütte
+![](/images/pohled-z-gg-smer-oberwalderhutte.JPG)
+z vrcholu GG směrem k Oberwalderhütte
 
  
 
