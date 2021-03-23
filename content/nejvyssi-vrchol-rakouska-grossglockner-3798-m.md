@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/gg.JPG"
 poradi = 5
 title = "Nejvyšší vrchol Rakouska - Grossglockner 3798 m"
