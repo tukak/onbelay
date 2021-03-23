@@ -56,16 +56,19 @@ type = "vystupy"
  
 
 ![](/images/gg-vrchol.JPG)
+&nbsp;
 z vrcholu GG
 
  
 
 ![](/images/z-gg-studlgrat.JPG)
+&nbsp;
 Stüdlgrat z vrcholu GG
 
  
 
 ![](/images/pohled-z-gg-smer-oberwalderhutte.JPG)
+&nbsp;
 z vrcholu GG směrem k Oberwalderhütte
 
  
