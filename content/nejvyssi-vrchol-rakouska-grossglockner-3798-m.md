@@ -29,3 +29,19 @@ Počet účastníků: 1
 Cena: 500 Euro
 
 * Členové AV a jiných spřátelených organizací mohou žádat na chatách slevu za nocleh (cca 10 Euro)
+
+&nbsp;
+
+ ![](/images/gg-vrchol.JPG)z vrcholu GG
+
+&nbsp;
+
+![](/images/z-gg-studlgrat.JPG) Stüdlgrat z vrcholu GG 
+
+&nbsp;
+
+![](/images/pohled-z-gg-smer-oberwalderhutte.JPG)z vrcholu GG směrem k Oberwalderhütte
+
+&nbsp;
+
+![](/images/z-gg-2.JPG)
