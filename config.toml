@@ -110,7 +110,7 @@ icon = "facebook"
 link = "https://www.facebook.com/onbelay.cz"
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://www.instagram.com/ladislav_petras_onbelay/"
 [params.footerCopyright]
 Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher.com"
 enable = true
