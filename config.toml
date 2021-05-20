@@ -89,6 +89,7 @@ contactInfoTitle = "KONTAKTNÍ <span>INFORMACE</span> "
 enable = true
 galleryTitle = "<span>FOTKY</span>"
 socialTitle = "SLEDUJTE <span>NÁS</span>"
+cooperateWith = "SPOLUPRACUJEME S"
 [[params.footer.contactItem]]
 content = "+420 728 342 832"
 icon = "fa fa-phone"
@@ -114,6 +115,8 @@ link = "https://www.instagram.com/ladislav_petras_onbelay/"
 [params.footerCopyright]
 Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher.com"
 enable = true
+[[params.footer.cooperationItem]]
+img = "images/tilak.png"
 [params.gallery]
 enable = true
 title = "<span>Fotografie</span>"

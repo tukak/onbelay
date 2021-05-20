@@ -49,6 +49,16 @@
 
                         </ul>
                     </div>
+                    <div class="block wow fadeInLeft" data-wow-delay="700ms">
+                        <h3>{{ with .Site.Params.footer.cooperateWith }} {{ . | safeHTML }} {{ end }}</h3>
+                        <ul>
+                            {{ range $.Site.Params.footer.cooperationItem }}
+                            <li>
+                                <img src="{{ .img | absURL }}">
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
                     <div class="social-media-link">
                         <h3>{{ with .Site.Params.footer.socialTitle }} {{ . | safeHTML }} {{ end }}</h3>
                         <ul>
