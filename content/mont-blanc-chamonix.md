@@ -49,12 +49,14 @@ type = "vystupy"
 
 ## V 6denním programu jsou navíc ještě aklimatizační dny a výstupy. Podle podmínek a chuti se nabízí jako klasický začátek výstup na Gran Paradiso v oblasti Aosta na italské straně. Chata Chabod leží v nadmořské výšce 2710 m. Tam strávíme celkem 2 dni.
 
-## Další variantou je pak výjezd na stanici Midi, přechod ledovce na chatu Torino (3375 m), která je ideálním místem pro aklimatizaci. Další den se vrátíme zpět na Midi a do Chamonix. Cestou na Torino  i zpátky na lanovku můžeme podniknout některé výstupy.
+&nbsp;
+
+## Jinou variantou je začít rovnou v Chamonix výjezdem na stanici Midi, přechod ledovce na chatu Torino (3375 m), která je ideálním místem pro aklimatizaci. Další den se vrátíme zpět na Midi a do Chamonix. Cestou na Torino  i zpátky na lanovku můžeme podniknout některé výstupy.
 
 ## Třetí den je odpočinkový, případně si můžeme jít zalézt na skály na druhé straně údolí nebo v blízkém okolí.
 
 ## Dále je program stejný, jako v předchozí, 4denní variantě - tedy výstup na chatu Tête Rousse/Goûter, pak na Mt. Blanc + jeden rezervní den.
 
-## 
+&nbsp; 
 
 ### **Cena 2000 euro** (v ceně je vedení túr + náklady guida na ubytování, stravu a lanovky)
