@@ -7,11 +7,23 @@ type = "vystupy"
 +++
 ## **Chamonix - mekka alpinismu**
 
+&nbsp;
+
 ## **Vydejte se s námi na alpské velikány klasickými výstupy.**
+
+&nbsp;
 
 ## **Nabídneme Vám i průstupy méně klasickými trasami na další vrcholy v oblasti Mt. Blanc a vytvoříme pro Vás individuální vícedenní program.**
 
+&nbsp;
+
 #### **Cena se odvíjí podle zvoleného cíle, trasy výstupu a počtu vedených dní. Cena zahrnuje náklady horského vůdce, nezahrnuje náklady na ubytování, dopravu ani pojištění klientů.**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## **Co si ale budeme povídat, Mt. Blanc je jen jeden. Můžeme Vám nabídnout 4denní, nebo 6denní program podle toho, jestli jste, nebo nejste dostatečně aklimatizovaní.**
 
