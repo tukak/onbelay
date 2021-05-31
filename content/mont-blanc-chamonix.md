@@ -37,7 +37,7 @@ type = "vystupy"
 
 ## Čtvrtý den si necháme jako rezervní pro případ, že by se první pokus nezdařil (třeba i kvůli počasí). Případně si můžeme jít zalézt, možností je téměř nepřeberně.
 
-## 
+&nbsp; 
 
 ### **Cena 1350 euro** (v ceně je vedení túr + náklady guida na ubytování, stravu a lanovky)
 
