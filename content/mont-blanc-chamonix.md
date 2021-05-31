@@ -12,3 +12,25 @@ type = "vystupy"
 ## **Nabídneme Vám i průstupy méně klasickými trasami na další vrcholy v oblasti Mt. Blanc a vytvoříme pro Vás individuální vícedenní program.**
 
 #### **Cena se odvíjí podle zvoleného cíle, trasy výstupu a počtu vedených dní. Cena zahrnuje náklady horského vůdce, nezahrnuje náklady na ubytování, dopravu ani pojištění klientů.**
+
+### **Co si ale budeme povídat, Mt. Blanc je jen jeden. Můžeme Vám nabídnout 4denní, nebo 6denní program podle toho, jestli jste, nebo nejste dostatečně aklimatizovaní.**
+
+### **Součástí 4denního programu je jeden aklimatizační výstup v okolí horní stanice lanovky na Aiguille du Midi (3842 m) - ten stejný den se vrátíme do Chamonix.** 
+
+### **Druhý den vystoupíme na chatu Tête Rousse/Goûter.**
+
+### **Třetí den se pokusíme o výstup na "Bílou horu", jak v překladu zní název Mt. Blancu, a vrátme se zpět.** 
+
+### **Čtvrtý den si necháme jako rezervní pro případ, že by se první pokus nezdařil (třeba i kvůli počasí). Případně si můžeme jít zalézt, možností je téměř nepřeberně.**
+
+### **Cena 1350 euro** (v ceně je vedení túr + náklady guida na ubytování, stravu a lanovky)
+
+### **V 6denním programu jsou navíc ještě aklimatizační dny a výstupy. Podle podmínek a chuti se nabízí jako klasický začátek výstup na Gran Paradiso v oblasti Aosta na italské straně. Chata Chabod leží v nadmořské výšce 2710 m. Tam strávíme celkem 2 dni.**
+
+### **Další variantou je pak výjezd na stanici Midi, přechod ledovce na chatu Torino (3375 m), která je ideálním místem pro aklimatizaci. Další den se vrátíme zpět na Midi a do Chamonix. Cestou na Torino  i zpátky na lanovku můžeme podniknout některé výstupy.**
+
+### **Třetí den je odpočinkový, případně si můžeme jít zalézt na skály na druhé straně údolí nebo v blízkém okolí.**
+
+### **Dále je program stejný, jako v předchozí, 4denní variantě - tedy výstup na chatu Tête Rousse/Goûter, pak na Mt. Blanc + jeden rezervní den.**
+
+### **Cena 2000 euro** (v ceně je vedení túr + náklady guida na ubytování, stravu a lanovky)
