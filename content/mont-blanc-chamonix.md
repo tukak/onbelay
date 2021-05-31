@@ -27,7 +27,7 @@ type = "vystupy"
 
 ## **Co si ale budeme povídat, Mt. Blanc je jen jeden. Můžeme Vám nabídnout 4denní, nebo 6denní program podle toho, jestli jste, nebo nejste dostatečně aklimatizovaní.**
 
-## 
+&nbsp;
 
 ## Součástí 4denního programu je jeden aklimatizační výstup v okolí horní stanice lanovky na Aiguille du Midi (3842 m) - ten stejný den se vrátíme do Chamonix.
 
