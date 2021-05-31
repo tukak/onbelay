@@ -17,13 +17,13 @@ type = "vystupy"
 
 ## 
 
-## **Součástí 4denního programu je jeden aklimatizační výstup v okolí horní stanice lanovky na Aiguille du Midi (3842 m) - ten stejný den se vrátíme do Chamonix.**
+## Součástí 4denního programu je jeden aklimatizační výstup v okolí horní stanice lanovky na Aiguille du Midi (3842 m) - ten stejný den se vrátíme do Chamonix.
 
-## **Druhý den vystoupíme na chatu Tête Rousse/Goûter.**
+## Druhý den vystoupíme na chatu Tête Rousse/Goûter.
 
-## **Třetí den se pokusíme o výstup na "Bílou horu", jak v překladu zní název Mt. Blancu, a vrátme se zpět.**
+## Třetí den se pokusíme o výstup na "Bílou horu", jak v překladu zní název Mt. Blancu, a vrátme se zpět.
 
-## **Čtvrtý den si necháme jako rezervní pro případ, že by se první pokus nezdařil (třeba i kvůli počasí). Případně si můžeme jít zalézt, možností je téměř nepřeberně.**
+## Čtvrtý den si necháme jako rezervní pro případ, že by se první pokus nezdařil (třeba i kvůli počasí). Případně si můžeme jít zalézt, možností je téměř nepřeberně.
 
 ## 
 
