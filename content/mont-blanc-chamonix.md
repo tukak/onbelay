@@ -41,6 +41,8 @@ type = "vystupy"
  &nbsp;
  
  &nbsp;
+ 
+ &nbsp;
 
 ## **V 6denním programu jsou navíc ještě aklimatizační dny a výstupy. Podle podmínek a chuti se nabízí jako klasický začátek výstup na Gran Paradiso v oblasti Aosta na italské straně. Chata Chabod leží v nadmořské výšce 2710 m. Tam strávíme celkem 2 dni.**
 
