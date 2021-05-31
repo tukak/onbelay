@@ -20,6 +20,8 @@ type = "vystupy"
 &nbsp;
 &nbsp;
 
+&nbsp;
+
 ### **Co si ale budeme povídat, Mt. Blanc je jen jeden. Můžeme Vám nabídnout 4denní, nebo 6denní program podle toho, jestli jste, nebo nejste dostatečně aklimatizovaní.**
 
 &nbsp;
