@@ -17,7 +17,7 @@ type = "vystupy"
 
 #### Počet účastníků: 2
 
-#### Cena: 550 Euro
+#### Cena: 600 Euro
 
 #### **Hřeben Stüdlgrat**
 
@@ -27,7 +27,7 @@ type = "vystupy"
 
 #### Počet účastníků: 1
 
-#### Cena: 600 Euro
+#### Cena: 650 Euro
 
 * Členové AV a jiných spřátelených organizací mohou žádat na chatách slevu za nocleh (cca 10 Euro)
 
