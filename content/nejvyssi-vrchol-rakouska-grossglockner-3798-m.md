@@ -9,7 +9,7 @@ type = "vystupy"
 
 #### Výstup na Grossglockner je ideální volbou jako aklimatizační túra na vyšší cíle v Alpách, např. alpské 4000m.
 
-&nbsp;
+ 
 
 #### **Klasika přes Kleinglockner**
 
@@ -19,9 +19,9 @@ type = "vystupy"
 
 #### Počet účastníků: 2
 
-#### Cena: 600 Euro
+#### Cena: 550 Euro
 
-&nbsp;
+ 
 
 #### **Hřeben Stüdlgrat**
 
@@ -31,10 +31,9 @@ type = "vystupy"
 
 #### Počet účastníků: 1
 
-#### Cena: 650 Euro
+#### Cena: 590 Euro
 
-&nbsp;
-
+ 
 
 * Členové AV a jiných spřátelených organizací mohou žádat na chatách slevu za nocleh (cca 10 Euro)
 
