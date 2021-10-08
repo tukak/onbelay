@@ -5,20 +5,20 @@ title = "Skialp"
 type = "skialp"
 
 +++
-### Máte-li zájem o lavinový kurz, základy skialpinismu, anebo o skialpovou túru v horách České republiky či v Alpách nebo slovenských horách, neváhejte nás kontaktovat. Kurzy i túry jsou vedené horským vůdcem - aspirantem.
+### Máte-li zájem o lavinový kurz, základy skialpinismu, anebo o skialpovou túru v horách České republiky či v Alpách nebo slovenských horách, neváhejte nás kontaktovat. Kurzy i túry jsou vedené horským vůdcem nebo horským vůdcem - aspirantem.
 
-### &nbsp;
+###  
 
-&nbsp;
+ 
 
 ![](/images/dscn3399.JPG)
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-![](/images/dscn3896.JPG)&nbsp;
+![](/images/dscn3896.JPG) 
 
-&nbsp;
+ 
 
 ![](/images/dscn3360.JPG)
