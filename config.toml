@@ -46,7 +46,17 @@ logo_cahv = "images/cmga_blue.png"
 [params.about]
 bgImage = "images/logo_original.png"
 description = "Jsme rádi, že jste navštívili naše stránky. V OnBelay lezeckých kurzech se soustředíme na výuku horolezectví od základů až k pokročilejším technikám, a to individuálně nebo v menších skupinách. Tím zaručujeme individuální přístup ke každému z Vás s důrazem na bezpečnost a praktičnost současně. Nabízíme mnohaletou zkušenost z výuky v horolezeckém oddíle.\n<br>\nZároveň budeme rádi, pokud se s námi vydáte do skal i hor nejen v ČR, ale i v zahraničí. Ať už za sbíráním zkušeností nebo nevšedních zážitků. Rádi Vám představíme nové skalní a horské oblasti i jejich horolezecká specifika, vylezeme si s vámi na vrcholy hor nebo z nich slyžujeme. Bude nám ctí i potěšením pomoct Vám splnit si sen.\n<br> \nNajdete nás v Brně."
-description2 = "Mgr. Ladislav Petráš - přes 10 let jsem členem horolezeckého oddílu Lokomotiva Brno, kde jsem také jako instruktor ČHS několik let vedl oddílovou horoškolu. V současné době jsem ve výcviku horských vůdců ČAHV/UIAGM (horský vůdce - aspirant/Aspirant guide) a držitelem licence MŠMT instruktor skalního lezení a lezení na umělé stěně. Horolezectví se věnuju přes 15 let a zkušenosti sbírám na skalách a v horách nejen v Evropě.\nMezi moje oblíbené disciplíny patří tradiční lezení, ať to pískovcové v ČR, anebo horské v blízkých Tatrách nebo trochu vzdálenějších Alpách. Do současnosti jsem měl možnost lézt v USA, Kanadě, Jordánsku, po celé Evropě, za polárním kruhem, v létě i v zimě. Mými oblíbenými destinacemi jsou Adršpach, Chamonix a Vysoké Tatry. Z hodnotnějších nebo klasických přelezů se mi podařily např. severní stěna Grandes Jorasses, Innominata Integrale na Mt. Blanc, Cima Grande, severní stěna Ortleru, Chief a Bugaboo Spire v Kanadě, Presten v Norsku, Cassinova cesta na Piz Badile, jižní stěna Dachsteinu..."
+description2 = """Mgr. Ladislav Petráš - přes 10 let jsem členem horolezeckého oddílu Lokomotiva Brno, kde
+jsem také jako instruktor ČHS několik let vedl oddílovou horoškolu. Jsem horský vůdce
+ČAHV/UIAGM a držitelem licence MŠMT instruktor skalního lezení a lezení na umělé stěně.
+Horolezectví se věnuju přes 15 let a zkušenosti sbírám na skalách a v horách nejen v
+Evropě. Mezi moje oblíbené disciplíny patří tradiční lezení, ať to pískovcové v ČR, anebo
+horské v blízkých Tatrách nebo trochu vzdálenějších Alpách. Do současnosti jsem měl
+možnost lézt v USA, Kanadě, Jordánsku, po celé Evropě, za polárním kruhem, v létě i v
+zimě. Mými oblíbenými destinacemi jsou Adršpach, Chamonix a Vysoké Tatry. Z
+hodnotnějších nebo klasických přelezů se mi podařily např. severní stěna Grandes Jorasses,
+Innominata Integrale na Mt. Blanc, Cima Grande, severní stěna Ortleru, Chief a Bugaboo
+Spire v Kanadě, Presten v Norsku, Cassinova cesta na Piz Badile, jižní stěna Dachsteinu..."""
 enable = true
 img = "images/DSCF3167.JPG"
 title = "<span>Onbelay</span>"
