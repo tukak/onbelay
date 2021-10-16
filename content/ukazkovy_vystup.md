@@ -11,6 +11,9 @@ poradi: "1"
 
 #### **Cena závisí na výběru konkrétního cíle a počtu dní (od 300 E/den).**
 
+&nbsp;
+
+
 ![](/images/dscn2763-kopie.JPG)
 
 ![](/images/img_20190722_104623-2-logo-kopie.jpg)
