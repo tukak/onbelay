@@ -23,6 +23,8 @@ type = "vystupy"
 
 #### Cena: 590 Euro
 
+#### 
+
 #### **Hřeben Stüdlgrat**
 
 #### Krásná vzdušná túra. Od parkoviště u Lucknerhaus se ještě týž den po příjezdu vydáme na chatu **Stüdlhütte** 2802m, kde přespíme (cca 62 E/noc s polopenzí). Druhý den si vylezeme krásný a exponovaný hřeben Stüdlgrat až na vrchol Grossglockneru. Zpět se dostaneme klasickou cestou a dále dolů k autům na parkovišti.
