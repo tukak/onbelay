@@ -9,8 +9,6 @@ type = "vystupy"
 
 #### Výstup na Grossglockner je ideální volbou jako aklimatizační túra na vyšší cíle v Alpách, např. alpské 4000m.
 
- 
-
 #### **Klasika přes Kleinglockner**
 
 #### S námi se nahoru podíváte např. touto klasickou cestou, a to z chaty **Erzherzog-Johann-Hütte** ve výšce 3454m, kam se dostaneme první den z parkoviště u Lucknerhuaus a kde pro lepší aklimatizaci přespíme (54 E pro členy AV/ 63 E /noc s polopenzí). Druhý den Vás dovedeme na vrchol GG a zpět dolů k autu.
@@ -21,7 +19,9 @@ type = "vystupy"
 
 #### Cena: 550 Euro
 
- 
+#### Počet účastníků: 3
+
+#### Cena: 590 Euro
 
 #### **Hřeben Stüdlgrat**
 
@@ -33,7 +33,9 @@ type = "vystupy"
 
 #### Cena: 590 Euro
 
- 
+#### Počet účastníků: 2
+
+#### Cena: 620 Euro
 
 * Členové AV a jiných spřátelených organizací mohou žádat na chatách slevu za nocleh (cca 10 Euro)
 
