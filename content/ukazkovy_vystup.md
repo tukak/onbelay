@@ -7,6 +7,8 @@ poradi: "1"
 ---
 #### **Koho lákají hory, konkrétní vrcholy nebo výstupy na ně vedoucí a chce si splnit sen se tam podívat, bude nám ctí mu k tomuto cíli pomoct. Nabízíme Vám výstupy na horské vrcholy v létě i v zimě pod vedením horského vůdce IFMGA/UIAGM. Obraťte se na nás s vlastním projektem, anebo výběr ponechte na našem doporučení. Neváhejte nás kontaktovat.**
 
+&nbsp;
+
 #### **Cena závisí na výběru konkrétního cíle a počtu dní (od 300 E/den).**
 
 ![](/images/dscn2763-kopie.JPG)
