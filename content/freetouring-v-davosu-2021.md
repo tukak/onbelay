@@ -43,7 +43,7 @@ type = "skialp"
 
 &nbsp;
 
-* Je dobré moc neváhat s rozhodováním, v Davosu se v lednu dveře netrhou a sehnat ubytovánní za rozumné ceny bývá s postupující sezónou těžší.
+* Je dobré moc neváhat s rozhodováním, v Davosu se v lednu dveře netrhou a sehnat ubytování za rozumné ceny bývá s postupující sezónou těžší.
 
 &nbsp;
 
