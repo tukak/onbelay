@@ -1,6 +1,6 @@
 +++
 image = "/images/img_20210101_130414_2.jpg"
-poradi = nil
+poradi = 1
 title = "Freetouring v Davosu 2021"
 type = "skialp"
 
