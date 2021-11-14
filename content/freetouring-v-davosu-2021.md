@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/img_20210101_130414_2.jpg"
 poradi = nil
 title = "Freetouring v Davosu 2021"
