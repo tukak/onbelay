@@ -43,6 +43,8 @@ type = "skialp"
 
 V ceně jsou zahrnuty služby horského vůdce a jeho náklady. Cena nezahrnuje Vaše náklady na dopravu, ubytování ani pojištění.
 
+&nbsp;
+
 * Je dobré moc neváhat s rozhodováním, v Davosu se v lednu dveře netrhou a sehnat ubytování za rozumné ceny bývá s postupující sezónou těžší.
 
 ![](/images/img_20210101_092142_0.jpg)
