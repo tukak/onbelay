@@ -1,6 +1,6 @@
 +++
 draft = true
-image = ""
+image = "/images/img_20210101_130414_2.jpg"
 poradi = nil
 title = "Freetouring v Davosu 2021"
 type = "skialp"
@@ -29,3 +29,13 @@ lyžařské brýle, sluneční brýle, vhodné oblečení (nepromokavá bunda, s
 **Program:** První den přijedeme do Davosu a po ubytování si zkontrolujeme vybavení a probereme program na příští dny. Další 4 dny budeme podnikat jednodenní túry po okolních kopcích a užívat si lyžování ve volném terénu. Někdy využijeme i lanovku. Cíle si vybereme podle našich lyžařských schopností a aktuálních sněhových a meteorologických podmínek. Poslední den podnikneme kratší túru, abychom ještě v odpoledních hodinách mohli v klidu odjet domů.
 
 Okolí Davosu nabízí i možnosti zkusit si lezení ledů.
+
+![](/images/img_20210101_092142_0.jpg)
+
+![](/images/img_20210101_121932_9.jpg)
+
+![](/images/img_20210101_142352_5.jpg)
+
+![](/images/img_20210101_134121_8-4.jpg)
+
+![](/images/img_20210101_133051_8.jpg)
