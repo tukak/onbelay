@@ -18,5 +18,6 @@ fields:
   label: poradi
   description: Pořadí, v jakém se zobrazí na stránce
 pages:
+- content/freetouring-v-davosu-2021.md
 - content/jednodenni-skialp-v-ceskych-horach.md
 - content/skialp.md
