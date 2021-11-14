@@ -25,9 +25,15 @@ type = "skialp"
 
 #### **Vybavení:** skialpové lyže + pásy + boty, hole, haršajzny (mačky na lyže), helma
 
+&nbsp;
+
 #### lavinová výbava (3anténový vyhledávač + sonda + lopata), lavinový batoh 30-35l
 
+&nbsp;
+
 #### lyžařské brýle, sluneční brýle, vhodné oblečení (nepromokavá bunda, softshellové kalhoty, spodní zateplovací vrstva, vrchní zateplovací vrstva - lehčí péřovka/primaloft, čepice, buff, tenčí rukavice, teplejší rukavice)
+
+&nbsp;
 
 #### čelová lampa "čelovka"
 
