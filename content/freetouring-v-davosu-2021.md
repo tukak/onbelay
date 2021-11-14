@@ -41,4 +41,4 @@ type = "skialp"
 
 * Je dobré moc neváhat s rozhodováním, v Davosu se v lednu dveře netrhou a sehnat ubytování za rozumné ceny bývá s postupující sezónou těžší.
 
-/images/img_20210101_092142_0.jpg
+[Download File](/images/img_20210101_092142_0.jpg "Download File")
