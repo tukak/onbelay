@@ -70,6 +70,10 @@ type = "vystupy"
 
 * Členové AV a jiných spřátelených organizací mohou žádat na chatách slevu za nocleh (cca 10 Euro)
 
+&nbsp;
+
+&nbsp;
+
 ![](/images/gg-vrchol.JPG)
  
 z vrcholu GG
