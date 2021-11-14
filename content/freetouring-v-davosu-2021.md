@@ -1,7 +1,7 @@
 +++
-image = "/images/img_20210101_130414_2.jpg"
+image = "/images/img_20210101_130414_2-kopie.jpg"
 poradi = 1
-title = "Freetouring v Davosu 2021"
+title = "Freetouring v Davosu 2022"
 type = "skialp"
 
 +++
