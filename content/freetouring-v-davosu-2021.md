@@ -5,7 +5,6 @@ title = "Freetouring v Davosu 2021"
 type = "skialp"
 
 +++
-## **Freetouring v Davosu**
 
 &nbsp;
 
