@@ -20,6 +20,9 @@ První den odpoledne/večer se potkáme na parkovišti před Hotelem Figura v Je
 
 **Cena: 3950,-/os.**
 
+* cena při min. počtu 4 účastníků
+
+
 * V ceně jsou služby horského vůdce UIAGM a jeho náklady. V ceně není zahrnuto vaše ubytování, strava, doprava ani pojištění.
 
 **Vybavení:**
