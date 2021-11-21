@@ -8,7 +8,7 @@ type = "skialp"
 +++
 ## **Schneeberg v jednom dni**
 
-**Kdy:**
+**Kdy:** 17. - 23.1. 
 
 **Kde:** V plánu je jednodenní skialpový výstup na Schneeberg (2076m) v rakouských Raxalpe kousek za Vídní. Sejdeme se ráno na parkovišti Losenheim Sesselbahn pod lanovkou na Edlweishütte. Odtud se vydáme na vrchol, dáme si sváču v chatě a užijeme si sjezd zpátky až na parkoviště.
 
