@@ -22,6 +22,6 @@ type = "skialp"
 * čelovka, termoska, sluneční brýle, lyžařské brýle
 * batoh cca 30-35 l (lavinový batoh bude výhodou ,ale není nutností)
 
-**Počet účastníků:** max. 8
+**Počet účastníků:** max. 6
 
 **Cena:** 100 euro/os. (při min. počtu 4 účastníků, jinak 400 euro/skupina)
