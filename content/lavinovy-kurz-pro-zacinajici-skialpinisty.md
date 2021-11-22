@@ -1,6 +1,6 @@
 +++
 image = "/images/img_20210117_143257_0-2.jpg"
-poradi = nil
+poradi = 4
 title = "Lavinový kurz pro začínající skialpinisty"
 type = "skialp"
 
