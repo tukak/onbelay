@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/img_20210117_143257_0-2.jpg"
 poradi = nil
 title = "Lavinový kurz pro začínající skialpinisty"
