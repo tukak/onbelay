@@ -1,6 +1,6 @@
 +++
 draft = true
-image = ""
+image = "/images/img_20210101_092142_0.jpg"
 poradi = nil
 title = "Skialp a ledy v okolí Kolm-Saigurn - Hoher Sonnblick 3106m"
 type = "skialp"
