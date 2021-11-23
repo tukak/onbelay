@@ -24,7 +24,10 @@ type = "skialp"
 
 &nbsp;
 
-#### **Vybavení:** skialpové lyže + pásy + boty, hole, haršajzny (mačky na lyže), helma
+#### **Vybavení:** 
+&nbsp;
+
+skialpové lyže + pásy + boty, hole, haršajzny (mačky na lyže), helma
 
 #### lavinová výbava (3anténový vyhledávač + sonda + lopata), lavinový batoh 30-35l
 
