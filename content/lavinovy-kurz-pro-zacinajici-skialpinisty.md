@@ -5,7 +5,6 @@ title = "Lavinový kurz pro začínající skialpinisty"
 type = "skialp"
 
 +++
-## **Lavinový kurz pro začínající skialpinisty**
 
 &nbsp;
 
@@ -19,7 +18,7 @@ type = "skialp"
 
 První den odpoledne/večer se potkáme na parkovišti před Hotelem Figura v Jeseníkách, cvakneme se do lyží a vydáme se na skialpech na chatu Švýcárna. Po večerech se budeme věnovat lavinové problematice, naučíme se číst informace z lavinových předpovědí, plánovat túru a pracovat s mapou. Ale nebudeme jenom sedět v teple chaty. Během dvou dnů budeme podnikat lehčí skialpové túry, vyladíme styl a ukážeme si lavinový test a měření sněhového profilu přímo v terénu. A samozřejmě nacvičíme záchranu z laviny.
 
-\-
+&nbsp;
 
 **Počet účastníků: 8 max.**
 
