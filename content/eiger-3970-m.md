@@ -15,11 +15,7 @@ type = "vystupy"
 
 ### My se na **Eiger** s Vámi podíváme, a to nádhernou cestou **Mittellegigrat**.
 
-&nbsp;
-
 ### Tuto akci je ideální pojmout jako vícedenní podnik, ve kterém můžeme kromě Eigeru vystoupit až na další 2 čtyřtisícovky - **Mönch** a **Jungfrau**.
-
-&nbsp;
 
 ### Nejrychlejší, dvoudenní, variantou je první den výjezd vláčkem a výstup na chatu Mittellegi a odtud druhý den na vrchol Eigeru a dolů na zubačku do Grindelwaldu.
 
