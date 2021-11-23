@@ -20,7 +20,11 @@ type = "skialp"
 
 #### První den se sejdeme v údolí Rauris na parkovišti Lenzanger, odtud se můžeme nechat vyvézt na chatu Naturfreundhaus. Dva dny věnujeme skialpinismu - jeden vrchol je jasný - Hoher Sonnblick 3106m. Druhý vybereme podle aktuálních sněhových podmínek. Další dva dny polezeme ledy v blízkém okolí chaty, seznámíme se s technikou lezení ledů, zavrtáváním ledovcových šroubů, ale i lavinovou záchranou.
 
+&nbsp;
+
 #### Je možné se samozřejmě domluvit a věnovat se buď víc lezení ledů, anebo naopak více skialpinismu a sjíždění okolních svahů.
+
+&nbsp;
 
 #### **Vybavení:**
 
