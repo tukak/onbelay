@@ -12,18 +12,26 @@ poradi: "2"
 * **- jištěním lezce na TR (Top Rope), jištěním prvolezce**
 * **- a správnou komunikací mezi lezeckými partnery (partner check atd.).**
 
+&nbsp;
+
 ### **Naučíme Vás**
 
 * **- úspornému a efektivnímu lezeckému pohybu,**
 * **- jak bezpečně spustit spolulezce**
 * **- i zachytit jeho pád.**
 
+&nbsp;
+
 ### **Ukážeme Vám,**
 
 * **- jak lézt na prvním konci lana**
 * **- a techniky propínání jisticích bodů.**
 
+&nbsp;
+
 ### **Po absolvování základního kurzu byste měli být schopni samostatně a hlavně bezpečně "fungovat" v lezeckém terénu umělé stěny.**
+
+&nbsp;
 
 ### **Místo a čas konání kurzu závisí na domluvě - máme možnost výběru z několika umělých stěn v Brně. Kurz obvykle probíhá 1x2 hodiny týdně, případně 2x2 hodiny týdně.**
 
