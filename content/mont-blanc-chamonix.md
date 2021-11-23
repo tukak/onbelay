@@ -61,7 +61,7 @@ type = "vystupy"
 
  &nbsp;
 
-### **Cena 2390 euro** (v ceně je vedení túr, v ceně jsou náklady guida na ubytování, stravu a lanovky)
+### **Cena 2290 euro** (v ceně je vedení túr, v ceně jsou náklady guida na ubytování, stravu a lanovky)
 
  &nbsp;
 
