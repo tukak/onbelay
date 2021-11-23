@@ -39,7 +39,9 @@ type = "vystupy"
 
  
 
-### **Cena 1450 euro** (v ceně je vedení túr, v ceně nejsou náklady guida na ubytování, stravu a lanovky)
+### **Cena 1700 euro** (v ceně je vedení túr, v ceně jsou náklady guida na ubytování, stravu a lanovky)
+
+&nbsp;
 
 ## V 6denním programu jsou navíc ještě aklimatizační dny a výstupy. Podle podmínek a chuti se nabízí jako klasický začátek výstup na Gran Paradiso v oblasti Aosta na italské straně. Chata Chabod leží v nadmořské výšce 2710m. Tam strávíme celkem 2 dni.
 
@@ -53,4 +55,4 @@ type = "vystupy"
 
  
 
-### **Cena 2050 euro** (v ceně je vedení túr + náklady guida na ubytování, stravu a lanovky)
+### **Cena 2390 euro** (v ceně je vedení túr, v ceně nejsou náklady guida na ubytování, stravu)
