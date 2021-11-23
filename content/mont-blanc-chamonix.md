@@ -15,11 +15,16 @@ type = "vystupy"
 
 ## **Nabídneme Vám i průstupy méně klasickými trasami na další vrcholy v oblasti Mt. Blanc a vytvoříme pro Vás individuální vícedenní program.**
 
- 
+&nbsp;
 
 #### **Cena se odvíjí podle zvoleného cíle, trasy výstupu a počtu vedených dní. Cena zahrnuje náklady horského vůdce, nezahrnuje náklady na ubytování, dopravu ani pojištění klientů.**
 
- 
+&nbsp;
+
+Mt. Blanc alias "Pan Bílý"
+
+&nbsp;
+
 
  
 
