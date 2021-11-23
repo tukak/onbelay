@@ -6,7 +6,6 @@ title = "Skialp a ledy v okolí Kolm-Saigurn - Hoher Sonnblick 3106m"
 type = "skialp"
 
 +++
-## **Skialp a ledy v okolí Kolm-Saigurn - Hoher Sonnblick 3106m**
 
 **Kdy:** **16.-20.2. 2022**
 
@@ -43,4 +42,4 @@ Doporučené:
 * V ceně jsou služby horského vůdce UIAGM a jeho náklady.
 * V ceně nejsou Vaše náklady na dopravu, ubytování, stravu ani pojištění.
 
-![](/images/dscn3137-2.JPG)
+![](/images/dscn3136.JPG)
