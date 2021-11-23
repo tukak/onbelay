@@ -35,4 +35,4 @@ První den odpoledne/večer se potkáme na parkovišti před Hotelem Figura v Je
 
 ![](/images/img_20210207_105001_8.jpg)
 
-![](/images/img_20190207_111241.jpg)
+![](/images/img_20190207_111241-web.jpg)
