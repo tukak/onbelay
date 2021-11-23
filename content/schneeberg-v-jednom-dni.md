@@ -1,7 +1,7 @@
 +++
 draft = true
 image = ""
-poradi = nil
+poradi = 2
 title = "Schneeberg v jednom dni"
 type = "skialp"
 
