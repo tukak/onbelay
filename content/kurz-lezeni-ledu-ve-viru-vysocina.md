@@ -1,5 +1,5 @@
 +++
-image = "/images/dscn3137-2.JPG"
+image = "/images/dscn0938.jpg"
 poradi = 1
 title = "Kurz lezení ledů ve Víru (Vysočina)"
 type = "ledy"
