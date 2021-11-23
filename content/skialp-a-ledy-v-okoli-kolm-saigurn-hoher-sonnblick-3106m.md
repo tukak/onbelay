@@ -61,4 +61,6 @@ Doporučené:
 * V ceně jsou služby horského vůdce UIAGM a jeho náklady.
 * V ceně nejsou Vaše náklady na dopravu, ubytování, stravu ani pojištění.
 
+&nbsp;
+
 ![](/images/dscn3136.JPG)
