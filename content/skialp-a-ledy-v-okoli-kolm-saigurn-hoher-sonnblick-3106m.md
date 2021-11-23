@@ -6,14 +6,27 @@ title = "Skialp a ledy v okolí Kolm-Saigurn - Hoher Sonnblick 3106m"
 type = "skialp"
 
 +++
-
 **Kdy:** **16.-20.2. 2022**
+
+&nbsp;
+
 
 **Kde:** Kolm-Saigurn, ubytování v Naturfreundhaus (38,- E/os./noc) + polopenze ()
 
-**Program:** První den se sejdeme v údolí Rauris na parkovišti Lenzanger, odtud se můžeme nechat vyvézt na chatu Naturfreundhaus. Dva dny věnujeme skialpinismu - jeden vrchol je jasný - Hoher Sonnblick 3106m. Druhý vybereme podle aktuálních sněhových podmínek. Další dva dny polezeme ledy v blízkém okolí chaty, seznámíme se s technikou lezení ledů, zavrtáváním ledovcových šroubů, ale i lavinovou záchranou.
+&nbsp;
+
+
+**Program:** 
+
+&nbsp;
+
+První den se sejdeme v údolí Rauris na parkovišti Lenzanger, odtud se můžeme nechat vyvézt na chatu Naturfreundhaus. Dva dny věnujeme skialpinismu - jeden vrchol je jasný - Hoher Sonnblick 3106m. Druhý vybereme podle aktuálních sněhových podmínek. Další dva dny polezeme ledy v blízkém okolí chaty, seznámíme se s technikou lezení ledů, zavrtáváním ledovcových šroubů, ale i lavinovou záchranou.
+
+&nbsp;
 
 **Vybavení:**
+
+&nbsp;
 
 Nutné:
 
@@ -26,6 +39,8 @@ Nutné:
 * sedací úvazek
 * mačky na lezení ledů
 
+&nbsp;
+
 Doporučené:
 
 * šrouby do ledu
@@ -35,7 +50,11 @@ Doporučené:
 * jistítko
 * pohorky (typ D) - ale lze lézt i ve skialpových lyžákách
 
+&nbsp;
+
 **Počet účastníků:** max. 4
+
+&nbsp;
 
 **Cena:** **10 000,-/os.** (min. účast 3 hostů)
 
