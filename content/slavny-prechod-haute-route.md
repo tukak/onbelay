@@ -2,7 +2,7 @@
 draft = true
 image = ""
 poradi = nil
-title = "Slavný přechod Haute route"
+title = " Legendární Haute route"
 type = "skialp"
 
 +++
