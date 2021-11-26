@@ -1,6 +1,6 @@
 +++
 image = "/images/dscf2115.jpg"
-poradi = 5
+poradi = 2
 title = "Ledy a skialp v okolí Kolm-Saigurn - Hoher Sonnblick 3106m"
 type = "ledy"
 
