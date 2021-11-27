@@ -1,7 +1,7 @@
 +++
 draft = true
 image = ""
-poradi = nil
+poradi = 1
 title = " Legendární Haute route"
 type = "skialp"
 
