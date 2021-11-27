@@ -17,6 +17,7 @@ fields:
   name: poradi
   label: poradi
   description: Pořadí, v jakém se zobrazí na stránce
+  default: 1
 pages:
 - content/vicedelkove-lezeni-v-dolomitech.md
 - content/vicedelkove-lezeni-v-rakousku.md
