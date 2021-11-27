@@ -1,7 +1,7 @@
 +++
 draft = true
 image = ""
-poradi = nil
+poradi = 1
 title = "Silvretta"
 type = "skialp"
 
