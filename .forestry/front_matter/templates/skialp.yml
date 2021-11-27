@@ -17,6 +17,8 @@ fields:
   name: poradi
   label: poradi
   description: Pořadí, v jakém se zobrazí na stránce
+  config:
+    required: true
 pages:
 - content/bernske-4000m-na-skialpech.md
 - content/freetouring-v-davosu-2021.md

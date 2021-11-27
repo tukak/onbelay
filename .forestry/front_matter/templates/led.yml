@@ -17,6 +17,8 @@ fields:
   name: poradi
   label: poradi
   description: Pořadí, v jakém se zobrazí na stránce
+  config:
+    required: true
 pages:
 - content/kurz-lezeni-ledu-ve-viru-vysocina.md
 - content/ledy-a-skialp-v-okoli-kolm-saigurn-hoher-sonnblick-3106m.md
