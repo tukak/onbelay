@@ -1,7 +1,7 @@
 +++
 draft = true
 image = ""
-poradi = nil
+poradi = 5
 title = "Ötztalské sněhobraní kolem Ambergerhütte"
 type = "skialp"
 
