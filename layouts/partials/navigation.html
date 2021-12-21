@@ -20,14 +20,21 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                 </button>
+                {{ if .IsHome }}
+                  {{"<!-- logo -->" | safeHTML}}
+                  <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}">
+                    <img class="img-responsive" src="{{ .Site.Params.logo | absURL }}" style="display:inline;" alt="Logo">
+                    <img class="img-responsive" src="{{ .Site.Params.logo_cahv | absURL }}" style="display:inline;" alt="Logo ČAHV">
+                    <img class="img-responsive" src="{{ .Site.Params.logo_uiagm | absURL }}" style="display:inline;" alt="Logo UIAGM ">
+                  </a>
+                  {{"<!-- logo -->" | safeHTML}}
+                {{else}}
                 {{"<!-- logo -->" | safeHTML}}
                 <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}">
                   <img class="img-responsive" src="{{ .Site.Params.logo | absURL }}" style="display:inline;" alt="Logo">
-                  <img class="img-responsive" src="{{ .Site.Params.logo_cahv | absURL }}" style="display:inline;" alt="Logo ČAHV">
-                  <img class="img-responsive" src="{{ .Site.Params.logo_uiagm | absURL }}" style="display:inline;" alt="Logo UIAGM ">
                 </a>
                 {{"<!-- logo -->" | safeHTML}}
-
+                {{end}}
               </div>
 
               {{ if .IsHome }}
