@@ -22,5 +22,6 @@ fields:
   config:
     required: true
 pages:
+- content/darkovy-poukaz.md
 - content/ferratový_kurz.md
 - content/ledolezeni.md
