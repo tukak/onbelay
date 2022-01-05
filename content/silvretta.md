@@ -14,6 +14,8 @@ type = "skialp"
 
 #### **Jak dlouho?** 4 dny
 
+#### **Obtížnost:** střední
+
 #### Vyšlápnout si na úžasné 3000metrové vrcholy (Piz Buin, Dreilanderspitze, Silvrettahorn nebo Signalhorn a další) a užít si báječné sjezdy na hranicích Rakouska a Švýcarska - tak o to tu půjde.
 
 #### Skupina max. o 6 lidech pod vedením horského vůdce.
