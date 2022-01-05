@@ -10,7 +10,7 @@ type = "skialp"
 
 #### 
 
-#### **Kde? hory v okolí Obertauern, volný terén**
+#### **Kde? hory v okolí Obertauern (volný terén, ne resort)**
 
 #### 
 
