@@ -40,7 +40,11 @@ type = "skialp"
 #### 
 &nbsp;
 #### **Ubytování:** v soukromém ubytování v obci Tamsweg (cca 30E/noc)
+
 &nbsp;
+
+&nbsp;
+
 ![](/images/img_20210207_105001_8.jpg)
  &nbsp;
 ![](/images/img_20190207_111241.jpg)
