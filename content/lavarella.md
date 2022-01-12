@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/dscn3399.JPG"
 poradi = 7
 title = "Lavarella - Dolomiti di Fanes"
