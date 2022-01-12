@@ -36,9 +36,13 @@ type = "skialp"
 
 #### Základní potřebné vybavení:
 
-* skialpové lyže s pásy, boty, hůlky, haršajzny
-* lavinové vybavení (sonda, lopata, vyhledávač), lavinový batoh bude určitě výhodou
-* vybavení na ledovec (sedák, mačky, cepín, 3x karabina s pojistkou zámku)
+skialpové lyže s pásy, boty, hůlky, haršajzny
+
+lavinové vybavení (sonda, lopata, vyhledávač), lavinový batoh bude určitě výhodou
+
+vybavení na ledovec (sedák, mačky, cepín, 3x karabina s pojistkou zámku)
+
+helma
 
  
 
