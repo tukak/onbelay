@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/dscn3360.JPG"
 poradi = 1
 title = "Skialp v oblasti Silvretta - 3000m na dosah ruky"
