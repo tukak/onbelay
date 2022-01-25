@@ -6,14 +6,18 @@ title = "Ötztalské sněhobraní kolem Ambergerhütte"
 type = "skialp"
 
 +++
-Kdy: březen 2022
+**Kdy:** březen a duben 2022
 
-Kde: Ambergerhütte (Ötztal, Rakousko)
+**Kde:** Ambergerhütte (Ötztal, Rakousko)
 
-Co: skialpové túry v ledovcové oblasti v okolí Ambergerhütte
+**Co:** skialpové túry v ledovcové oblasti v okolí Ambergerhütte
 
-Jak dlouho: 4 dny
+**Jak dlouho:** 4 dny
 
-Malá skupina max. 6 osob pod vedením horského vůdce. 
+Malá skupina max. 6 osob pod vedením horského vůdce.
 
-Každý den túry v okolí Ambergerhütte s 3000metrovými vrcholy kolem dokola s dominantou Schrankogel 3497m. 
+První den nástup na chatu z Griesu. Druhý až čvrtý den túry v okolí Ambergerhütte s 3000metrovými vrcholy kolem dokola s dominantou Schrankogel 3497m. Čtvrtý den odpoledne po túře sjezd zpět do Griesu k autům.
+
+**Cena:** 8750,- /os. (při min. počtu 4 hostů)
+
+\* v ceně jsou služby horského vůdce a jeho náklady; v ceně není zahrnuto Vaše ubytování s polopenzí ani doprava
