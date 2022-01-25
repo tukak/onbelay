@@ -1,6 +1,6 @@
 +++
 draft = true
-image = ""
+image = "/images/ze-sulzkar7_13hod-kopie-web.jpg"
 poradi = 5
 title = "Ötztalské sněhobraní kolem Ambergerhütte"
 type = "skialp"
@@ -21,3 +21,9 @@ První den nástup na chatu z Griesu. Druhý až čvrtý den túry v okolí Ambe
 **Cena:** 8750,- /os. (při min. počtu 4 hostů)
 
 \* v ceně jsou služby horského vůdce a jeho náklady; v ceně není zahrnuto Vaše ubytování s polopenzí ani doprava
+
+![](/images/z-mutterberg-seespitz-kopie-web.jpg)
+
+![](/images/z-bockkoglferner2-kopie-web.jpg)
+
+![](/images/ze-sulzkar3_11hod-kopie-web.jpg)
