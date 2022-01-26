@@ -1,7 +1,7 @@
 +++
 image = "/images/ze-sulzkar7_13hod-kopie-web.jpg"
 poradi = 2
-title = "Ötztalské sněhobraní kolem Ambergerhütte"
+title = "Stubaiské sněhobraní kolem Ambergerhütte"
 type = "skialp"
 
 +++
