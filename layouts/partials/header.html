@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	    <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}">
+		<meta name="keywords" content="{{if .IsHome}}{{ $.Site.Params.keywords }}{{else}}{{.Keywords}}{{end}}">
 		<meta name="author" content="{{ $.Site.Params.author }}">
 		
 		<link rel="apple-touch-icon" sizes="57x57" href="/images/icon/apple-icon-57x57.png">
