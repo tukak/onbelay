@@ -19,7 +19,7 @@ type = "vystupy"
 
 #### **Cena se odvíjí podle zvoleného cíle, trasy výstupu a počtu vedených dní. Cena nezahrnuje náklady horského vůdce, nezahrnuje náklady na ubytování, dopravu ani pojištění klientů.**
 
- &nbsp;
+&nbsp;
 &nbsp;
 
 
@@ -84,3 +84,12 @@ Midi, přechod ledovce na chatu Torino (3375 m), která je ideálním místem pr
  
 
 ### Počet hostů: max. 1-2
+
+&nbsp;
+&nbsp;
+
+Nabídneme Vám i průstupy méně klasickými trasami na další vrcholy v oblasti Mt. Blanc a vytvoříme pro Vás individuální vícedenní program na míru.
+
+ &nbsp;
+
+#### **Cena se odvíjí podle zvoleného cíle, trasy výstupu a počtu vedených dní. Cena nezahrnuje náklady horského vůdce, nezahrnuje náklady na ubytování, dopravu ani pojištění klientů.**
