@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/img_20210728_154249_2b.jpg"
 poradi = 6
 title = "Nejvyšší vrchol Švýcarska  - Monte Rosa čili Dufourspitze 4634m"
