@@ -32,7 +32,11 @@ type = "vystupy"
 
 &nbsp;
 
+&nbsp;
+
 ### Počet klientů: 1-2
+
+&nbsp;
 
 &nbsp;
 
