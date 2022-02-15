@@ -33,12 +33,12 @@ type = "vystupy"
 
 ### (v ceně jsou zahrnuty služby horského vůdce; v ceně nejsou zahrnuty náklady na lanovky, ubytování a stravu vůdce ani klienta)
 
-![](/images/img_20210729_060249_7.jpg)
+![](/images/img_20210729_060249_7b.jpg)
 
-![](/images/img_0913.JPG)
+![](/images/img_20210729_093309_4b.jpg)
 
-![](/images/img_20210729_094727_4.jpg)
+![](/images/img_20210729_094735_1b.jpg)
 
-![](/images/img_20210729_094735_1.jpg)
+![](/images/img_20210729_094727_4b.jpg)
 
-![](/images/img_20210729_120134_5.jpg)
+![](/images/img_20210729_120134_5b.jpg)
