@@ -78,7 +78,7 @@ Dále je program stejný, jako v předchozí, 4denní variantěvýstup na chatu 
 
 Počet hostů: max. 1-2
 
- &nbsp;
+&nbsp;
  
 &nbsp;
 #### 
