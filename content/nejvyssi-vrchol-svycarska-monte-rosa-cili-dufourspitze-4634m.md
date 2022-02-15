@@ -36,6 +36,8 @@ type = "vystupy"
 
 ### Cena: **1550,- Euro**
 
+&nbsp;
+
 ### (v ceně jsou zahrnuty služby horského vůdce; v ceně nejsou zahrnuty náklady na lanovky, ubytování a stravu vůdce ani klienta)
 
  
