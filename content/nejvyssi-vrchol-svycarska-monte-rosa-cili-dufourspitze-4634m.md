@@ -8,11 +8,19 @@ type = "vystupy"
 +++
 ## **Monte Rosa čili Dufourspitze 4634m**
 
+&nbsp;
+
 ### Je nejvyšší horou Švýcarska a současně druhou nejvyšší horou Alp. Nachází se ve Walliských Alpách na hranici s Itálií, proto také tento dvojjazyčný název. Ten italský je více romantický, jak se na jižanskou duši patří - hora dostala jméno podle odstínu, který má při západu slunce. Naopak Švýcarsko nezapře svůj smysl pro akurátnost - Guillaume - Henri Dufour byl tvůrcem prvního topografického atlasu Švýcarska.
+
+&nbsp;
 
 ### Túru vedeme obvykle švýcarskou trasou, tedy z Neue Monte Rosa Hütte do sedla Sattel a odtud po hřebeni na samotný vrchol Dufourspitze. Jedná se o kombinovaný výstup - začíná překonáním morény a skalní pasáže, pokračuje ledovcem rozbrázděným trhlinami až do sedla, odtud (občas) ledovým strmým svahem a zakončený je skalním hřebenem obtížnosti II. UIAA. Jistý pohyb na mačkách je tu velice žádoucí.
 
+&nbsp;
+
 ### Túra je fyzicky náročná, jedná se o 1800m převýšení. Trvá obvykle až 8 - 10 hodin. Proto počítáme s 4denní variantou:
+
+&nbsp;
 
 ### první den aklimatizační túra na některý z okolních 4000m vrcholů,
 
@@ -22,11 +30,15 @@ type = "vystupy"
 
 ### čtvrtý den sestup z chaty do Zermattu.
 
+&nbsp;
+
 ### Počet klientů: 1-2
+
+&nbsp;
 
 ### Cena: **1550,- Euro**
 
- 
+ &nbsp;
 
 ### (v ceně jsou zahrnuty služby horského vůdce; v ceně nejsou zahrnuty náklady na lanovky, ubytování a stravu vůdce ani klienta)
 
