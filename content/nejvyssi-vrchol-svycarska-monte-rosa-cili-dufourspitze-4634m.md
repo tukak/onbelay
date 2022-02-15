@@ -20,10 +20,13 @@ type = "vystupy"
 
 ### Túra je fyzicky náročná, jedná se o 1800m převýšení. Trvá obvykle až 8 - 10 hodin. Proto počítáme s 4denní variantou:
 
-* **první den aklimatizační túra na některý z okolních 4000m vrcholů,**
-* **druhý den nástup na chatu Monte Rosa Hütte,**
-* **třetí den brzký start a návrat opět na chatu,**
-* **čtvrtý den sestup z chaty do Zermattu.**
+### první den aklimatizační túra na některý z okolních 4000m vrcholů,
+
+### druhý den nástup na chatu Monte Rosa Hütte,
+
+### třetí den brzký start a návrat opět na chatu,
+
+### čtvrtý den sestup z chaty do Zermattu.
 
  
 
