@@ -11,14 +11,6 @@ type = "vystupy"
 
 ## **Vydejte se s námi na alpské velikány klasickými výstupy.**
 
- 
-
-## Nabídneme Vám i průstupy méně klasickými trasami na další vrcholy v oblasti Mt. Blanc a vytvoříme pro Vás individuální vícedenní program na míru.
-
- 
-
-#### **Cena se odvíjí podle zvoleného cíle, trasy výstupu a počtu vedených dní. Cena nezahrnuje náklady horského vůdce, nezahrnuje náklady na ubytování, dopravu ani pojištění klientů.**
-
 &nbsp;
 &nbsp;
 
