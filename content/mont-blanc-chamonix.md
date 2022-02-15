@@ -45,7 +45,7 @@ type = "vystupy"
  
  &nbsp;
 
-### 5denní program sestává z 2 dní aklimatizačních túr (a případného seznamování s pohybem na mačkách ve vysokohorském terénu) - Mere de Glace a túra ze stanice lanovky Midi (3810m), např. Arete Cosmique.
+### 5denní program sestává z 2 dní aklimatizačních túr (a případného seznamování s pohybem na mačkách ve vysokohorském terénu) - Mere de Glace a túra ze stanice lanovky Midi, např. Arete Cosmique.
 
 ### Další 3 dny už věnujeme samotnému výstupu na Mt. Blanc klasickou cestou (viz. předchozí program).
 
