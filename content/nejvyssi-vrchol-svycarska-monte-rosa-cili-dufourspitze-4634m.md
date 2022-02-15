@@ -1,6 +1,6 @@
 +++
 draft = true
-image = ""
+image = "/images/img_20210728_154249_2b.jpg"
 poradi = 6
 title = "Nejvyšší vrchol Švýcarska  - Monte Rosa čili Dufourspitze 4634m"
 type = "vystupy"
@@ -32,3 +32,13 @@ type = "vystupy"
 ### Cena: **1550,- Euro**
 
 ### (v ceně jsou zahrnuty služby horského vůdce; v ceně nejsou zahrnuty náklady na lanovky, ubytování a stravu vůdce ani klienta)
+
+![](/images/img_20210729_060249_7.jpg)
+
+![](/images/img_0913.JPG)
+
+![](/images/img_20210729_094727_4.jpg)
+
+![](/images/img_20210729_094735_1.jpg)
+
+![](/images/img_20210729_120134_5.jpg)
