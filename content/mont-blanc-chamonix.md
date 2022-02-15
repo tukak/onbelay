@@ -64,7 +64,7 @@ V 6denním programu jsou navíc ještě aklimatizační dny a výstupy. Podle po
 &nbsp;
 
 Jinou variantou je začít rovnou v Chamonix výjezdem na stanici
-Midi, přechod ledovce na chatu Torino (3375 m), která je ideálním místem pro aklimatizaci. Další den se vrátíme zpět na Midi a d hamonix. Cestou na Torino  i zpátky na lanovku můžeme podniknout různé výstupy.
+Midi, přechod ledovce na chatu Torino (3375 m), která je ideálním místem pro aklimatizaci. Další den se vrátíme zpět na Midi a do Chamonix. Cestou na Torino  i zpátky na lanovku můžeme podniknout různé výstupy.
 
 Třetí den je odpočinkový, případně si můžeme jít zalézt na skály na druhé straně údolí nebo v blízkém okolí.
 
