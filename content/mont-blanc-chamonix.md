@@ -12,8 +12,10 @@ type = "vystupy"
 ## **Vydejte se s námi na alpské velikány klasickými výstupy.**
 
 &nbsp;
+
 &nbsp;
 
+&nbsp;
 
 # **Mt. Blanc alias "Pan Bílý"**
 
