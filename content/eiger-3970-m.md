@@ -41,7 +41,7 @@ type = "vystupy"
 
  
 
-### V ceně nejsou zahrnuty služby horského vůdce/aspiranta a jeho náklady (zubačka, spaní a jídlo na chatách atd.).
+### V ceně jsou zahrnuty služby horského vůdce, v ceně nejsou zahrnuty jeho a klientovy náklady (zubačka, spaní a jídlo na chatách atd.).
 
  
 
