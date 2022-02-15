@@ -17,9 +17,11 @@ type = "vystupy"
 
  
 
-#### **Cena se odvíjí podle zvoleného cíle, trasy výstupu a počtu vedených dní. Cena zahrnuje náklady horského vůdce, nezahrnuje náklady na ubytování, dopravu ani pojištění klientů.**
+#### **Cena se odvíjí podle zvoleného cíle, trasy výstupu a počtu vedených dní. Cena nezahrnuje náklady horského vůdce, nezahrnuje náklady na ubytování, dopravu ani pojištění klientů.**
 
- 
+ &nbsp;
+&nbsp;
+
 
 # **Mt. Blanc alias "Pan Bílý"**
 
