@@ -17,7 +17,7 @@ image: "/images/img_20190827_142222_0-2-kopie2.jpg"
 &nbsp;
 #### Vyberete si z aktuální nebo stálé nabídky akci, která Vás zajímá, anebo se na nás obrátíte s vlastním přáním nebo cílem, který byste rádi s naší pomocí realizovali. Kontaktujete nás přes kontaktní e-mail, sms, telefon či jinak. My Vám poskytneme nezbytné informace o akci a domluvíme se s Vámi na podrobnostech.
 &nbsp;
-####
+
 &nbsp;
 #### **Co je v ceně?**
 &nbsp;
