@@ -19,8 +19,8 @@ poradi: "2"
 
 |  | 1 den | 2 dny | 3 dny |
 | --- | --- | --- | --- |
-| 1 osoba | 5200 | 10000 | 14000 |
-| 2 osoby | 2800 | 5200 | 7200 |
+| 1 osoba | 5900 | 11200 | 16700 |
+| 2 osoby | 3000 | 5700 | 8500 |
 
 * &nbsp;
 * *je možné se domluvit na společné dopravě
