@@ -21,7 +21,7 @@ type = "skialp"
 
 #### 
 
-#### **Cena: 4250,-/os.**
+#### **Cena: 5250,-/os.**
 
 * cena při min. počtu 4 účastníků
 * V ceně jsou služby horského vůdce UIAGM a jeho náklady. V ceně není zahrnuto vaše ubytování, strava, doprava ani pojištění.
