@@ -7,17 +7,31 @@ type = "skialp"
 +++
 #### **Kdy?** únor-duben 2023 (termíny upřesníme během podzimu 2022)
 
+&nbsp;
+
 #### **Kde?** Wiesbadener Hütte (Rakousko)/ Tuoi hütte (Švýcarsko) jako alternativa
+
+&nbsp;
 
 #### **Co?** skialpové túry na 3000m vrcholky v ledovcové oblasti Silvretta pod vedením horského vůdce
 
+&nbsp;
+
 #### **Jak dlouho?** 4 dny
+
+&nbsp;
 
 #### **Obtížnost:** střední
 
+&nbsp;
+
 #### Vyšlápnout si na úžasné 3000metrové vrcholy (Piz Buin, Dreilanderspitze, Silvrettahorn nebo Signalhorn a další) a užít si báječné sjezdy na hranicích Rakouska a Švýcarska - tak o to tu půjde.
 
+&nbsp;
+
 #### Skupina max. o 6 lidech pod vedením horského vůdce.
+
+&nbsp;
 
 #### **Základní potřebné vybavení:**
 
@@ -30,6 +44,8 @@ type = "skialp"
 #### helma
 
 #### (podrobnější rozpis vybavení pošleme v propozicích)
+
+&nbsp;
 
 #### **Cena:** 9950,- kč/ os. (při min. počtu 4 hostů)
 
