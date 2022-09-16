@@ -5,9 +5,9 @@ title = "Skialp v oblasti Silvretta - 3000m na dosah ruky"
 type = "skialp"
 
 +++
-#### **Kdy?** 28.2. - 3.3. 2022
+#### **Kdy?** únor-duben 2023 (termíny upřesníme během podzimu 2022)
 
-#### **Kde?** Wiesbadener Hütte (Rakousko)/ Tuoi hütte (Švýcarsko) jako alternativa podle covidové situace
+#### **Kde?** Wiesbadener Hütte (Rakousko)/ Tuoi hütte (Švýcarsko) jako alternativa
 
 #### **Co?** skialpové túry na 3000m vrcholky v ledovcové oblasti Silvretta pod vedením horského vůdce
 
