@@ -11,9 +11,15 @@ type = "skialp"
 
 #### druhý termín **(v jednání)** (celkem 4 dny lyžování)
 
+&nbsp;
+
 #### **Cena:** 400 euro/os. (min. počet hostů 4, max. počet 6 hostů)
 
+&nbsp;
+
 #### **Náročnost:** střední obtížnost (možno přizpůsobit našim schopnostem)
+
+&nbsp;
 
 #### **Vybavení:**
 
@@ -25,11 +31,19 @@ type = "skialp"
 
 #### čelová lampa "čelovka"
 
+&nbsp;
+
 #### **Program:** První den přijedeme do Davosu a po ubytování si zkontrolujeme vybavení a probereme program na příští dny. Další 4 dny budeme podnikat jednodenní túry po okolních kopcích a užívat si lyžování ve volném terénu. Někdy využijeme i lanovku. Cíle si vybereme podle našich lyžařských schopností a aktuálních sněhových a meteorologických podmínek. Poslední den podnikneme kratší túru, abychom ještě v odpoledních hodinách mohli v klidu odjet domů.
+
+&nbsp;
 
 #### Okolí Davosu nabízí i možnosti zkusit si lezení ledů.
 
+&nbsp;
+
 #### V ceně jsou zahrnuty služby horského vůdce a jeho náklady. Cena nezahrnuje Vaše náklady na dopravu, ubytování ani pojištění.
+
+&nbsp;
 
 * Je dobré moc neváhat s rozhodováním, v Davosu se v lednu dveře netrhou a sehnat ubytování za rozumné ceny bývá s postupující sezónou těžší.
 
