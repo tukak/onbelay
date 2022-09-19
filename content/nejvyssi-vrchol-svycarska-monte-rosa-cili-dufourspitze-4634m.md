@@ -39,7 +39,7 @@ type = "vystupy"
 
  
 
-### Cena: **1590,- Euro**
+### Cena: **1650,- Euro**
 
  
 
