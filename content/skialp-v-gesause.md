@@ -37,3 +37,5 @@ případně jiné dny v týdnu po vzájemné domluvě
 * cena nezahrnuje dopravu, ubytování a stravu klientů
 
 ![](/images/img_20220212_073526_3.jpg)
+
+![](/images/img_20220212_123418_5.jpg)
