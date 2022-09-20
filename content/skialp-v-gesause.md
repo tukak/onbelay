@@ -60,8 +60,6 @@ type = "skialp"
 
  
 
-![](/images/img_20220212_123418_5.jpg)
-
  
 
 ![](/images/img_20220213_093933_2.jpg)
