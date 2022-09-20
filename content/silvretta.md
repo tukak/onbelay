@@ -1,6 +1,6 @@
 +++
 image = "/images/dscn3360.JPG"
-poradi = 1
+poradi = 7
 title = "Skialp v oblasti Silvretta - 3000m na dosah ruky"
 type = "skialp"
 
