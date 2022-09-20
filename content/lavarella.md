@@ -1,6 +1,6 @@
 +++
 image = "/images/dscn3399.JPG"
-poradi = 7
+poradi = 9
 title = "Lavarella - Dolomiti di Fanes"
 type = "skialp"
 
