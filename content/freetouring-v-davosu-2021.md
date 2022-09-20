@@ -1,6 +1,6 @@
 +++
 image = "/images/img_20210101_130414_2-kopie.jpg"
-poradi = 1
+poradi = 5
 title = "Freetouring v Davosu 2023"
 type = "skialp"
 
