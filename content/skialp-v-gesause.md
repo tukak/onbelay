@@ -1,5 +1,4 @@
 +++
-draft = true
 image = ""
 poradi = 9
 title = "Skialp v Gesäuse"
