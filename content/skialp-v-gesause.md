@@ -48,6 +48,7 @@ type = "skialp"
  
 
 #### **Cena:** **7950,- kč/os.** (min. počet 4 lidé)
+&nbsp;
 
 **cena zahrnuje služby horského vůdce a jeho náklady**
 
