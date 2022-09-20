@@ -1,5 +1,5 @@
 +++
-image = ""
+image = "/images/img_20220212_105845_1.jpg"
 poradi = 9
 title = "Skialp v Gesäuse"
 type = "skialp"
