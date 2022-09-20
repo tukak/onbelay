@@ -1,6 +1,6 @@
 +++
 image = "/images/img_20220212_125853_6.jpg"
-poradi = 9
+poradi = 3
 title = "Skialp v Gesäuse"
 type = "skialp"
 
