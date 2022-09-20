@@ -2,7 +2,7 @@
 image = "/images/dscf2115.jpg"
 poradi = 2
 title = "Ledy a skialp v okolí Kolm-Saigurn - Hoher Sonnblick 3106m"
-type = "Lezení ledů"
+type = "ledy"
 
 +++
 #### **Kdy:** **16.-20.2. 2022**
