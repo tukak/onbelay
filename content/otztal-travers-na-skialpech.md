@@ -7,13 +7,23 @@ type = "skialp"
 +++
 ## **Skialpový přechod Ötztalských Alp**
 
+&nbsp;
+
 Skialpový přechod části pohoří na hranicích Rakouska a Itálie vede místy, kde se už před tisíci lety pohybovala celebrita - Ötzi. A my tam budeme také, akorát na lyžích s volnou patou.
+
+&nbsp;
 
 **Kdy:** **10. - 14.3. 2023**
 
+&nbsp;
+
 **Kde:** obec **Vent** bude startem i cílem
 
+&nbsp;
+
 **Jak dlouho:** **5 plných dní**
+
+&nbsp;
 
 Startujeme ráno v rakouské obci Vent, kde také necháme auta, mineme chatu Martin Busch Hütte a ještě ten samý den dojdeme nijak strmou cestou na chatu Similaunhütte (1100 v.m.). Zde přespíme a ráno vyjdeme na nejvyšší vrchol Ötztálských Alp, Similaun 3606m. Ještě tentýž den projdeme místem posledního odpočinku Ötziho, Hauslabjochem, a odtud si dáme sjezd a zamíříme na chatu Bellavista (cca 1100 .m.).
 
@@ -23,13 +33,19 @@ Den čtvrtý nás cesta zavede přes Fluchtkogel 3494m (altern. Guslarspitze) na
 
 Poslední den se nám jako třešnička na dortu nabízí výstup na dvojvrchol Wildspitze 3768m/ 3757m a následný sjezd zpět do Ventu. (cca 1000 v.m.)
 
+&nbsp;
+
 * Vzhedem k rannímu startu první den je vhodné uvažovat o předchozím přenocování ve Ventu či blízkém okolí.
+
+&nbsp;
 
 **Náročnost:** přechod je určen pro středně pokročilé až pokročilé skialpinisty s dobrou fyzickou kondicí, kteří mají zkušenosti s jízdou ve volném terénu; túry zaberou většinou celý den, obvykle nastoupáme kolem 1000 výškových metrů/den
 
 **Cena:** **13 900,- kč/os.** (při účasti alespoň 4 lidí)
 
 * v ceně **jsou** zahrnuty služby horského vůdce i jeho náklady na dopravu, ubytování a stravu; v ceně **nejsou** zahrnuty druhotné náklady klientů (ubytování, doprava, strava, pojištění atp.) 
+
+&nbsp;
 
 ![](/images/img_20220319_113515_6.jpg)
 
