@@ -8,7 +8,7 @@ type = "skialp"
 +++
 ## **Skialpový přechod Ötztalských Alp**
 
-Skialpový přechod části pohoří na hranicích Rakouska a Itálie vede místy, kde se už před tisíci lety pohybovala celebrita - Ötzi. A my tam budeme také, akorát na lyžích s volnou patou. 
+Skialpový přechod části pohoří na hranicích Rakouska a Itálie vede místy, kde se už před tisíci lety pohybovala celebrita - Ötzi. A my tam budeme také, akorát na lyžích s volnou patou.
 
 **Kdy:** **10. - 14.3. 2023**
 
@@ -26,9 +26,9 @@ Poslední den se nám jako třešnička na dortu nabízí výstup na dvojvrchol 
 
 * Vzhedem k rannímu startu první den je vhodné uvažovat o předchozím přenocování ve Ventu či blízkém okolí.
 
-**Náročnost:** přechod je určen pro středně pokročilé až pokročilé skialpinisty s dobrou fyzickou kondicí, kteří mají zkušenosti s jízdou ve volném terénu; túry zaberou většinou celý den, obvykle nastoupáme kolem 1000 výškových metrů
+**Náročnost:** přechod je určen pro středně pokročilé až pokročilé skialpinisty s dobrou fyzickou kondicí, kteří mají zkušenosti s jízdou ve volném terénu; túry zaberou většinou celý den, obvykle nastoupáme kolem 1000 výškových metrů/den
 
-**Cena:** **13 900,- kč/os.** (při účasti alespoň 4 lidí) 
+**Cena:** **13 900,- kč/os.** (při účasti alespoň 4 lidí)
 
 ![](/images/img_20220319_113515_6.jpg)
 
