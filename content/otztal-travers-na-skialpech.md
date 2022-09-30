@@ -41,6 +41,8 @@ Poslední den se nám jako třešnička na dortu nabízí výstup na dvojvrchol 
 
 **Náročnost:** přechod je určen pro středně pokročilé až pokročilé skialpinisty s dobrou fyzickou kondicí, kteří mají zkušenosti s jízdou ve volném terénu; túry zaberou většinou celý den, obvykle nastoupáme kolem 1000 výškových metrů/den
 
+&nbsp;
+
 **Cena:** **13 900,- kč/os.** (při účasti alespoň 4 lidí)
 
 * v ceně **jsou** zahrnuty služby horského vůdce i jeho náklady na dopravu, ubytování a stravu; v ceně **nejsou** zahrnuty druhotné náklady klientů (ubytování, doprava, strava, pojištění atp.) 
