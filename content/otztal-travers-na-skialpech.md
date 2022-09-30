@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/img_20220318_142641_6.jpg"
 poradi = 10
 title = "Ötztal travers na skialpech"
@@ -29,6 +28,8 @@ Poslední den se nám jako třešnička na dortu nabízí výstup na dvojvrchol 
 **Náročnost:** přechod je určen pro středně pokročilé až pokročilé skialpinisty s dobrou fyzickou kondicí, kteří mají zkušenosti s jízdou ve volném terénu; túry zaberou většinou celý den, obvykle nastoupáme kolem 1000 výškových metrů/den
 
 **Cena:** **13 900,- kč/os.** (při účasti alespoň 4 lidí)
+
+* v ceně **jsou** zahrnuty služby horského vůdce i jeho náklady na dopravu, ubytování a stravu; v ceně **nejsou** zahrnuty druhotné náklady klientů (ubytování, doprava, strava, pojištění atp.) 
 
 ![](/images/img_20220319_113515_6.jpg)
 
