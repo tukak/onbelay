@@ -2,7 +2,7 @@
 draft = true
 image = ""
 poradi = 11
-title = "Silvretta a její 3tisícovky na skialpech"
+title = "Silvretta - skialpový přechod"
 type = "skialp"
 
 +++
