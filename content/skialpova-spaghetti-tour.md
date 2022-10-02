@@ -7,21 +7,23 @@ type = "skialp"
 +++
 ## **Skialpová Spaghetti tour s guidem**
 
+&nbsp;
+
 #### Skialpový přechod ve Walliských Alpách z velké části kopíruje pomezí Švýcarska a Itálie a vede masivem Monte Rosa s největší koncentrací 4000m vrcholů, na které my hodláme také vystoupat. Budeme se 4 dny pohybovat na dohled od dominant oblasti, spektakulárního Matterhornu 4478m a nejvyšší hory Švýcarska Dufourspitz 4634m.
 
-#### 
+&nbsp; 
 
 #### **Kdy: duben 2023**
 
-#### 
+&nbsp; 
 
 #### **Kde:** Zermatt, Monte Rosa (Švýcarsko/ Itálie)
 
-#### 
+&nbsp;
 
 #### **Jak dlouho: 4 dny**
 
-#### 
+&nbsp; 
 
 #### Vyrazíme ze švýcarského Zermattu lanovkou na Klein Matterhorn (3883m), odkud se už na tuleních pásech vydáme na vrcholy našich dvou prvních čtyřtisícovek - Centrálního (4159m) a Západního (4164m) Breithornu. Pak už jen sjezd na chatu Guide Della Valle d'Ayas (3420m), kde přenocujeme.
 
@@ -31,22 +33,26 @@ type = "skialp"
 
 #### Poslední den máme před sebou sedlo Lysjoch (4151m). Jím se dostaneme na švýcarskou stranu a k nejvýše položené chatě v Alpách, Capanna Regina Margherita (4554m) stojící na další "čtyřce" Signalkuppe. Tam bude krátká pauza. Výstup na Zumsteinspitze (4562m) si necháme až na konec. A odtamtud už jen sjezd směr Zermatt.
 
-#### 
+&nbsp; 
 
 #### Denně nás čeká min. 1000 v.m. při výstupech, je třeba počítat s celodenním pohybem po ledovci (6-8 hod.). Trasa i vrcholy budou záviset jak na aktuálních sněhových podmínkách, tak na našich fyzických schopnostech. Je vhodné být dobře fyzicky připravený na delší denní túry. Přechod není vhodný pro začátečníky.
 
-#### 
+&nbsp; 
 
 #### **Velikost skupiny:** max. 3 osoby
 
-#### 
+&nbsp; 
 
 #### **Cena:** **18 500,- kč/ os.**
 
 * v ceně jsou služby horského vůdce a jeho náklady na místě; v ceně nejsou druhotné náklady klientů (ubytování, strava, doprava, lanovka)
 * náklady na místě: 3x nocleh na chatě s polopenzí (cca 75 euro/noc, s členstvím v alpských spolcích -10 euro), lanovka Zermatt - Klein Matterhorn (cca 65 euro), doprava Täsch - Zermatt
 
+&nbsp;
+
 V nabídce je i letní varianta přechodu.
+
+&nbsp;
 
 ![](/images/img_20210525_103020_3-2.jpg)
 
