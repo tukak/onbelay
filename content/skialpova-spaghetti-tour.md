@@ -50,7 +50,7 @@ type = "skialp"
 
  
 
-#### V nabídce je i letní varianta přechodu.
+#### **V nabídce je i letní varianta přechodu.**
 
  
 
