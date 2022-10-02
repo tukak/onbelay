@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/img_20210523_145824_2-2.jpg"
 poradi = 12
 title = "Skialpová Spaghetti tour"
