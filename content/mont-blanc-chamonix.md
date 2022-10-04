@@ -39,7 +39,8 @@ type = "vystupy"
 
 #### **Počet hostů:** max. 1-2
 
- 
+ &nbsp;
+ &nbsp;
 
 #### **5denní program**
 
@@ -55,7 +56,8 @@ type = "vystupy"
 
 #### **Počet hostů:** max. 1-2
 
- 
+ &nbsp;
+ &nbsp;
 
 #### **6denní program**
 
