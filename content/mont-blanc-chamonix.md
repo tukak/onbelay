@@ -39,6 +39,8 @@ type = "vystupy"
 
 &nbsp;
 
+&nbsp;
+
 #### 5denní program sestává z 2 dní aklimatizačních túr (a případného seznamování s pohybem na mačkách ve vysokohorském terénu) - Mere de Glace a túra ze stanice lanovky Midi, např. Arete Cosmique. Alternativou je dvoudenní výstup na 4tisícový vrchol v Itálii - Gran Paradiso (4061m).
 
 #### Další 3 dny už věnujeme samotnému výstupu na Mt. Blanc klasickou cestou (viz. předchozí program).
@@ -50,6 +52,8 @@ type = "vystupy"
 &nbsp;
 
 #### **Počet hostů:** max. 1-2
+
+&nbsp;
 
 &nbsp;
 
