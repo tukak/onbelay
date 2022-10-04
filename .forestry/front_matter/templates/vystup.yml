@@ -20,6 +20,7 @@ fields:
   config:
     required: true
 pages:
+- content/dent-du-geant-4013m.md
 - content/eiger-3970-m.md
 - content/matterhorn-4478m.md
 - content/mont-blanc-chamonix.md
