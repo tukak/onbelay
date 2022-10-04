@@ -41,7 +41,7 @@ type = "vystupy"
 
  
 
-####  **5denní program**
+#### **5denní program**
 
 #### **5denní program** sestává z 2 dní aklimatizačních túr (a případného seznamování s pohybem na mačkách ve vysokohorském terénu) - Mere de Glace a túra ze stanice lanovky Midi, např. Arete Cosmique. Alternativou je dvoudenní výstup na 4tisícový vrchol v Itálii - Gran Paradiso (4061m).
 
@@ -57,7 +57,7 @@ type = "vystupy"
 
  
 
-####  **6denní program**
+#### **6denní program**
 
 #### V **6denním programu** jsou navíc ještě aklimatizační dny a výstupy. Podle podmínek a chuti se nabízí jako klasický začátek výstup na Gran Paradiso v oblasti Aosta na italské straně. Chata Chabod leží v nadmořské výšce 2710m. Tam strávíme celkem 2 dni.
 
