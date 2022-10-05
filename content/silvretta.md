@@ -7,7 +7,7 @@ type = "skialp"
 +++
 #### **Kdy?** únor-duben 2023 (další termíny upřesníme během podzimu 2022)
 
-      #### **termín A:  16. - 19.3. 2023**
+   #### **termín A:  16. - 19.3. 2023**
 
 &nbsp;
 
