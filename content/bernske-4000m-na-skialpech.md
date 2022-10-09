@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/img_20220406_135244_8.jpg"
 poradi = 12
 title = "Na tuleních pásech do srdce Bernských Alp"
