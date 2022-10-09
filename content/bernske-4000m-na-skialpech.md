@@ -1,6 +1,6 @@
 +++
 draft = true
-image = ""
+image = "/images/img_20220406_135244_8.jpg"
 poradi = 12
 title = "Na tuleních pásech do srdce Bernských Alp"
 type = "skialp"
@@ -22,7 +22,7 @@ type = "skialp"
 
 #### Večer před samým začátkem túry se sejdeme v malé obci Grindelwald, která leží přímo pod majestátným Eigerem, abysme si zkontrolovali všechen potřebný materiál a vybavení. Tam také přespíme.
 
-#### První den ráno vyrazíme lanovkou/vláčkem do Jungfraujoch 3471m, náš start i cíl. Přes Jungfraufirn se kolem Jungfrau dostaneme pod Louwihorn 3777m, náš první cíl. Z něj pak sjezd na Grosser Aletschfirn  a zbytek došlapeme na chatu Hollandia 3245m. 
+#### První den ráno vyrazíme lanovkou/vláčkem do Jungfraujoch 3471m, náš start i cíl. Přes Jungfraufirn se kolem Jungfrau dostaneme pod Louwihorn 3777m, náš první cíl. Z něj pak sjezd na Grosser Aletschfirn  a zbytek došlapeme na chatu Hollandia 3245m.
 
 #### Druhý den nás čeká výšlap na příjemný vrchol těsně pod hranicí čtyř tisíc metrů - Äbni Flue 3961m. Stejnou trasou zpět sjezd na chatu, kde si vyzvedneme zbytek věcí. Pak bude následovat sjezd na spodní ledovec. Abysme se dostali k chatě Konkordia 2850m budeme muset ještě nasadit pásy.
 
@@ -34,9 +34,9 @@ type = "skialp"
 
 #### * program, případně pořadí vrcholů se může změnit v závislosti na aktuálních sněhových podmínkách a dalších okolnostech (počasí, fyzička atp.)
 
-#### **Náročnost:** 
+#### **Náročnost:**
 
-#### Tento program je určený pro zkušené lyžaře (je potřeba zvládat lyžování v neupraveném terénu a sklony až kolem 35 - 40 stupňů) a skialpinisty. Všechny túry vedou ledovcovým terénem. 
+#### Tento program je určený pro zkušené lyžaře (je potřeba zvládat lyžování v neupraveném terénu a sklony až kolem 35 - 40 stupňů) a skialpinisty. Všechny túry vedou ledovcovým terénem.
 
 #### Je potřeba být v dobré fyzické kondici - denní převýšení bude 1000 až 1300 v.m., túry zaberou celý den ( 6-8 hodin).
 
@@ -44,7 +44,17 @@ type = "skialp"
 
 #### **Cena:**     **14 500,-** (při min. počtu 4 osob)
 
-####                **12 500,-** (při počtu 5-6 osob)
+#### **12 500,-** (při počtu 5-6 osob)
 
 * v ceně **jsou** zahrnuty služby horského vůdce a jeho náklady; v ceně **nejsou** zahrnuty náklady klientů (doprava, ubytování + strava, lanovka, pojištění)
 * přibližná cena ubytování s polopenzí cca 70 CHF/ noc (4x horská chata, 1x zpáteční lanovka)
+
+![](/images/img-20220411-wa0011.jpg)
+
+![](/images/img_20220406_105721_7.jpg)
+
+![](/images/img_20220406_105020_0.jpg)
+
+![](/images/img_20220406_134908_4.jpg)
+
+![](/images/img_20220406_080351_1.jpg)
