@@ -7,7 +7,7 @@ type = "skialp"
 +++
 #### **Kdy:** březen a duben 2023 (termíny upřesníme během podzimu 2022, příp. jsou na domluvě)
 
-####  **termín 1:    4. - 9.4. 2023**
+####  **termín 1:    6. - 9.4. 2023**
 
 #### **Kde:** Ambergerhütte (Stubai, Rakousko)
 
