@@ -9,6 +9,8 @@ type = "skialp"
 
 ####  **termín 1:    6. - 9.4. 2023**
 
+&nbsp;
+
 #### **Kde:** Ambergerhütte (Stubai, Rakousko)
 
  
