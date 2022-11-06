@@ -5,7 +5,7 @@ title = "Stubaiské sněhobraní kolem Ambergerhütte"
 type = "skialp"
 
 +++
-#### **Kdy:** březen a duben 2023 (termíny upřesníme během podzimu 2022, příp. jsou na domluvě)
+#### **Kdy:** únor a duben 2023 (termíny upřesníme během podzimu 2022, příp. jsou na domluvě)
 
 &nbsp;
 
