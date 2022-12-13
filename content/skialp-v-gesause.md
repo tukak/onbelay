@@ -7,7 +7,7 @@ type = "skialp"
 +++
 ## **Skialp v rakouských Gesäuse pro začínající a mírně pokročilé skialpinisty**
 
-&nbsp;
+ 
 
 #### **Kdy: leden - únor 2023 (termíny na domluvě, 3 plné dny)**
 
@@ -15,23 +15,23 @@ type = "skialp"
 
 ### **termín č.2:     10. - 12.2. 2023**
 
-&nbsp;
+ 
 
 #### **Kde:** Štýrsko není pro většinu našinců nijak dramaticky vzdálenou destinací, takže je reálný dojezd ve večerních hodinách po práci. Národní park Gesäuse v rakouském Štýrsku nabízí velké množství lehčích a středně těžkých túr jak pro začínající skialpinisty, tak pro pokročilejší, kteří se chtějí v technice stoupání i jízdy ve volném terénu zdokonalit.
 
-&nbsp;
+ 
 
 #### Náplní prodlouženého víkendu, kdy se během 3 dnů vydáme skialpinistických lyžích na okolní vrcholy,  je seznámení s technikou výstupu i sjezdu ve volném terénu i seznámení s lavinovou problematikou a prevencí.
 
-&nbsp;
+ 
 
 #### Volbu tras a vrcholů přizpůsobíme možnostem skupiny.
 
-&nbsp;
+ 
 
 #### Velikost skupiny max. 8 lidí.
 
-&nbsp;
+ 
 
 #### **Co s sebou:**
 
@@ -43,25 +43,25 @@ type = "skialp"
 
 #### další věci (zašleme informační e-mail s podrobným soupisem)
 
-&nbsp;
+ 
 
 #### **Jak dlouho: 3 dny (Pá - Ne),** příjezd na místo čtvrtek večer;
 
 #### případně jiné dny v týdnu po vzájemné domluvě
 
-&nbsp;
+ 
 
 #### **Ubytování:** oblast nabízí ubytování jak v penzionech, tak v tradičních rodinných hostincích s možností polopenze (info v e-mailu)
 
-&nbsp;
+ 
 
-#### **Cena:** **7950,- kč/os.** (min. počet 4 lidé)
+#### **Cena:** **6350,- kč/os.** (min. počet 4 lidé)
 
 **cena zahrnuje služby horského vůdce a jeho náklady**
 
 **cena nezahrnuje dopravu, ubytování a stravu klientů**
 
-&nbsp;
+ 
 
 ![](/images/img_20220212_123418_5.jpg)
 
