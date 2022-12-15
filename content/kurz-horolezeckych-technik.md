@@ -6,3 +6,6 @@ title = "Kurz horolezeckých technik"
 type = "kurzy"
 
 +++
+#### **Kurz horolezeckých technik**
+
+#### 
