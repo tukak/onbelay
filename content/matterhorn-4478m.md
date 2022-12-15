@@ -49,3 +49,7 @@ První den je naordinovaná aklimatizační lezecká túra. Druhý den nástup n
 ![](/images/20220722_072027.jpg)
 
 ![](/images/20220722_101408.jpg)
+
+![](/images/20220722_101413.jpg)
+
+![](/images/20220721_151055.jpg)
