@@ -8,6 +8,12 @@ type = "skialp"
 +++
 #### **Jak nejlépe se připravit na novou skialpovou sezónu? Na začátku se "rozpinkat" v jednodušších terénech, osvěžit si lyžařskou techniku jak na sjezdovce, tak ve volném terénu i základní návyky skialpinisty. Popřípadě vychytat nějaké materiálové nedokonalosti.**
 
+**Kdy:** 
+
+ **6. - 8.1. 2023**
+
+ **13. - 15.1. 2023**
+
 Na tohle všechno se spolu zaměříme v průběhu dvou dní a připomeneme si i základy lavinové prevence. K tomu využijeme terény a lanovky Pitztalu anebo Stubaie.
 
 Prví den večer se sejdeme na ubytování (v údolí), dáme do pořádku svoje vybavení a plány na další den. Další dva dny už budeme jen jezdit a šlapat na pásech. Možná se dostaneme i na nějaký ten vrchol. Uvidíme, co nám dovolí sněhové podmínky.
