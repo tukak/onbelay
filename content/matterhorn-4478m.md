@@ -36,6 +36,6 @@ První den je naordinovaná aklimatizační lezecká túra. Druhý den nástup n
 
 **Počet klientů: max. 1**
 
-**Cena výstupu italskou normálkou:**    **2050,- euro/ 51 250,- kč**
+**Cena výstupu italskou normálkou:**    **2100,- euro/ 52 500,- kč**
 
 \* cena zahrnuje služby horského vůdce; cena nezahrnuje náklady na dopravu, lanovky a ubytování klienta a guida (ty platí klient)
