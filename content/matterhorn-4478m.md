@@ -1,6 +1,6 @@
 +++
 draft = true
-image = ""
+image = "/images/img_20210523_210525_6.jpg"
 poradi = 7
 title = "Matterhorn 4478m "
 type = "vystupy"
@@ -39,3 +39,9 @@ První den je naordinovaná aklimatizační lezecká túra. Druhý den nástup n
 **Cena výstupu italskou normálkou:**    **2100,- euro/ 52 500,- kč**
 
 \* cena zahrnuje služby horského vůdce; cena nezahrnuje náklady na dopravu, lanovky a ubytování klienta a guida (ty platí klient)
+
+![](/images/img-20220722-wa0041.jpg)
+
+![](/images/img-20220722-wa0022.jpg)
+
+![](/images/img-20220722-wa0029.jpg)
