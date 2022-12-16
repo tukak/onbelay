@@ -18,7 +18,25 @@ type = "kurzy"
 
 #### **Kde: Vysočina - Čtyři palice, Drátník**
 
-Sejdeme se na Vysočině, kde se 3 dny budeme věnovat pilování horolezeckých dovedností, které se vám můžou hodit ve vícedélkových skalních cestách i v horách. Např. jednolanové i dvoulanové technice, správnému vedení lana, zakládání vlastního jištění, budování jisticích stanovišť, záchranným technikám, postupu na krátkém laně, slaňování, jištění, materiálu atp.
+První den v odpoledních hodinách se sejdeme na ubytování na Vysočině a hned začneme s výukou. Další 2 dny budeme v terénu věnovat pilování horolezeckých dovedností, které se vám můžou hodit ve vícedélkových skalních cestách i v horách. 
+
+Např. jednolanové i dvoulanové technice,
+
+správnému vedení lana,
+
+zakládání vlastního jištění,
+
+budování jisticích stanovišť,
+
+záchranným technikám,
+
+postupu na krátkém laně,
+
+slaňování,
+
+jištění,
+
+materiálu atp.
 
 #### **Počet klientů: 8 max.**
 
