@@ -40,6 +40,8 @@ materiálu atp.
 
 #### **Počet klientů: 8 max.**
 
+\*kurz je možné po domluvě zorganizovat i pro soukromé skupiny zájemců
+
 #### **Cena: 3500,- kč/os.**
 
 \*v ceně jsou služby horského vůdce a jeho náklady; v ceně není ubytování, strava, doprava ani zdravotní pojištění klientů
