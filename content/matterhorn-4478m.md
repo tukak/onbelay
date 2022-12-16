@@ -7,6 +7,8 @@ type = "vystupy"
 +++
 # **Matterhorn 4478m**
 
+&nbsp;
+
 ### **Kdy:** červen - září
 
 ### **Jak dlouho:** 4 dny
@@ -35,9 +37,12 @@ type = "vystupy"
 
 ### **Cena čtyřdenního programu:    2100,- euro/ 52 500,- kč**
 
+&nbsp;
+
 ### * cena zahrnuje služby horského vůdce; cena nezahrnuje náklady na dopravu, lanovky a ubytování klienta a guida (ty platí klient)
 
 ### 
+&nbsp;
 
 ### Další možností, jak vystoupit na Matterhorn, je "normálka" z italské strany, tzv. **Liongrat/ Cresta del Leone** obtížnosti AD+/ III+.
 
@@ -52,6 +57,7 @@ type = "vystupy"
 ### 
 
 ### **Cena výstupu italskou normálkou:**    **2100,- euro/ 52 500,- kč**
+&nbsp;
 
 ### * cena zahrnuje služby horského vůdce; cena nezahrnuje náklady na dopravu, lanovky a ubytování klienta a guida (ty platí klient)
 
