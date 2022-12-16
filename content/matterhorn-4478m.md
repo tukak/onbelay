@@ -62,6 +62,8 @@ type = "vystupy"
  
 
 #### * cena zahrnuje služby horského vůdce; cena nezahrnuje náklady na dopravu, lanovky a ubytování klienta a guida (ty platí klient)
+&nbsp;
+&nbsp;
 
 ![](/images/20220721_151055.jpg)
 
