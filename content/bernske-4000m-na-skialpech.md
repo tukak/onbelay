@@ -17,6 +17,8 @@ type = "skialp"
 
 #### **termín 1:    11. - 15. 4. 2023**
 
+&nbsp;
+
 #### **Kde:** Švýcarsko, Grindelwald, Bernské Alpy
 
 &nbsp;
