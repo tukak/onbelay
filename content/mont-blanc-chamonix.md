@@ -7,19 +7,19 @@ type = "vystupy"
 +++
 ## **Chamonix - mekka alpinismu**
 
-&nbsp;
+ 
 
 ## **Vydejte se s námi na alpské velikány klasickými výstupy.**
 
-&nbsp;
+ 
 
 # **Mt. Blanc alias "Pan Bílý"**
 
-&nbsp;
+ 
 
 #### **Co si ale budeme povídat, Mt. Blanc je jen jeden. Můžeme Vám nabídnout 4denní, 5denní nebo 6denní program podle toho, jestli jste, nebo nejste dostatečně aklimatizovaní a připravení.**
 
-&nbsp;
+ 
 
 #### **4denní program**
 
@@ -31,47 +31,51 @@ type = "vystupy"
 
 #### Čtvrtý den si necháme jako rezervní pro případ, že by se první pokus nezdařil (třeba i kvůli počasí). Pokud všechno proběhne podle plánu, tak se tento poslední den pouze sestupuje zpět do Les Houches.
 
-&nbsp;
+ 
 
-#### **Cena** 
+#### **Cena**
 
 #### **1800,- Euro/ 1 klient**
 
-#### **2100,- Euro/ 2 klienti** 
+#### **2100,- Euro/ 2 klienti**
 
 #### (v ceně je vedení túr, v ceně nejsou náklady guida ani klienta na ubytování, stravu a lanovky)
 
-&nbsp;
+ 
 
 #### **Počet hostů:** max. 1-2
 
- &nbsp;
+ 
 
- &nbsp;
+ 
 
 #### **5denní program**
 
 #### **5denní program** sestává z 2 dní aklimatizačních túr (a případného seznamování s pohybem na mačkách ve vysokohorském terénu) - Mere de Glace a túra ze stanice lanovky Midi, např. Arete Cosmique. Alternativou je dvoudenní výstup na 4tisícový vrchol v Itálii - Gran Paradiso (4061m).
 
-#### Další 3 dny už věnujeme samotnému výstupu na Mt. Blanc klasickou cestou (viz. předchozí program).
+#### Další 3 dny už věnujeme samotnému výstupu na Mt. Blanc klasickou cestou. Třetí den vystoupíme na chatu Tête Rousse, případně vyšší chatu Goûter.
 
-&nbsp;
+#### Čtvrtý den se pokusíme o výstup na "Bílou horu", jak v překladu zní název Mt. Blancu, a vrátíme se zpět na Goûter, kde přenocujeme.
 
-#### **Cena** 
+#### Pátý den si necháme jako rezervní pro případ, že by se první pokus nezdařil (třeba i kvůli počasí). Pokud všechno proběhne podle plánu, tak se tento poslední den pouze sestupuje zpět do Les Houches.
+
+ 
+
+#### **Cena**
 
 #### **2100,- Euro**/ **1 klient**
 
-#### **2400,- Euro/ 2 klienti** 
+#### **2400,- Euro/ 2 klienti**
 
 #### (v ceně je vedení túr, v ceně nejsou náklady guida ani klienta na ubytování, stravu a lanovky)
 
-&nbsp;
+ 
 
 #### **Počet hostů:** max. 1-2
 
- &nbsp;
+ 
 
- &nbsp;
+ 
 
 #### **6denní program**
 
@@ -83,21 +87,21 @@ type = "vystupy"
 
 #### Dále je program stejný, jako v předchozí, 4denní variantěvýstup na chatu Tête Rousse/Goûter, pak na Mt. Blanc + jeden rezervní den.
 
-&nbsp;
+ 
 
-#### **Cena** 
+#### **Cena**
 
 #### **2400,- Euro/** **1 klient**
 
-#### **2700,- Euro/ 2 klienti** 
+#### **2700,- Euro/ 2 klienti**
 
 #### (v ceně je vedení túr, v ceně nejsou náklady guida ani klienta na ubytování, stravu a lanovky)
 
-&nbsp;
+ 
 
 #### **Počet hostů:** max. 1-2
 
-&nbsp;
+ 
 
 #### Nabídneme Vám i průstupy méně klasickými trasami na další vrcholy v oblasti Mt. Blanc a vytvoříme pro Vás individuální vícedenní program na míru.
 
