@@ -7,19 +7,19 @@ type = "vystupy"
 +++
 ## **Chamonix - mekka alpinismu**
 
- 
+ &nbsp;
 
 ## **Vydejte se s námi na alpské velikány klasickými výstupy.**
 
- 
+ &nbsp;
 
 # **Mt. Blanc alias "Pan Bílý"**
 
- 
+ &nbsp;
 
 #### **Co si ale budeme povídat, Mt. Blanc je jen jeden. Můžeme Vám nabídnout 4denní, 5denní nebo 6denní program podle toho, jestli jste, nebo nejste dostatečně aklimatizovaní a připravení.**
 
- 
+ &nbsp;
 
 #### **4denní program**
 
@@ -31,7 +31,7 @@ type = "vystupy"
 
 #### Čtvrtý den si necháme jako rezervní pro případ, že by se první pokus nezdařil (třeba i kvůli počasí). Pokud všechno proběhne podle plánu, tak se tento poslední den pouze sestupuje zpět do Les Houches.
 
- 
+ &nbsp;
 
 #### **Cena**
 
@@ -41,13 +41,13 @@ type = "vystupy"
 
 #### (v ceně je vedení túr, v ceně nejsou náklady guida ani klienta na ubytování, stravu a lanovky)
 
- 
+ &nbsp;
 
 #### **Počet hostů:** max. 1-2
 
- 
+ &nbsp;
 
- 
+ &nbsp;
 
 #### **5denní program**
 
@@ -59,7 +59,7 @@ type = "vystupy"
 
 #### Pátý den si necháme jako rezervní pro případ, že by se první pokus nezdařil (třeba i kvůli počasí). Pokud všechno proběhne podle plánu, tak se tento poslední den pouze sestupuje zpět do Les Houches.
 
- 
+ &nbsp;
 
 #### **Cena**
 
@@ -69,13 +69,13 @@ type = "vystupy"
 
 #### (v ceně je vedení túr, v ceně nejsou náklady guida ani klienta na ubytování, stravu a lanovky)
 
- 
+ &nbsp;
 
 #### **Počet hostů:** max. 1-2
 
- 
+ &nbsp;
 
- 
+ &nbsp;
 
 #### **6denní program**
 
@@ -87,7 +87,7 @@ type = "vystupy"
 
 #### Dále je program stejný, jako v předchozí, 4denní variantěvýstup na chatu Tête Rousse/Goûter, pak na Mt. Blanc + jeden rezervní den.
 
- 
+ &nbsp;
 
 #### **Cena**
 
@@ -97,11 +97,11 @@ type = "vystupy"
 
 #### (v ceně je vedení túr, v ceně nejsou náklady guida ani klienta na ubytování, stravu a lanovky)
 
- 
+ &nbsp;
 
 #### **Počet hostů:** max. 1-2
 
- 
+ &nbsp;
 
 #### Nabídneme Vám i průstupy méně klasickými trasami na další vrcholy v oblasti Mt. Blanc a vytvoříme pro Vás individuální vícedenní program na míru.
 
