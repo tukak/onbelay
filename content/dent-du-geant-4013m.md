@@ -5,4 +5,4 @@ title = "Dent du Géant 4013m"
 type = "vystupy"
 
 +++
-![](/images/img_20210720_163250_4.jpg)
+![](/images/img_20210720_160741_8.jpg)
