@@ -1,7 +1,6 @@
 +++
-draft = true
 image = "/images/img_20210720_160827_3.jpg"
-poradi = 7
+poradi = 8
 title = "Dent du Géant 4013m"
 type = "vystupy"
 
